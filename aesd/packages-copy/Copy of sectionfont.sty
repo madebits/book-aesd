@@ -1,0 +1,124 @@
+%% Do some basic formatting 
+%% make all the section-command use
+%% sans serif (sffamily) font
+%% see: localfontstyle definition
+%% R. Gieben, 16 jun 2002
+%%
+
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{sectionfont}[2002/06/16 LaTeX extension]
+
+%% preload some packages
+%% use sf in the caption commands
+\RequirePackage[sf]{caption}
+
+%% declares the fontstyle to use in all the 
+%% sectioning commands
+\newcommand\localfontstyle{\sffamily}
+
+%% redefine the section command (\normalfont -> \sffamily
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+                                   {-3.5ex \@plus -1ex \@minus -.2ex}%
+                                   {2.3ex \@plus.2ex}%
+                                   {\localfontstyle\Large\bfseries}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+                                     {-3.25ex\@plus -1ex \@minus -.2ex}%
+                                     {1.5ex \@plus .2ex}%
+                                     {\localfontstyle\large\bfseries}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+                                     {-3.25ex\@plus -1ex \@minus -.2ex}%
+                                     {1.5ex \@plus .2ex}%
+                                     {\localfontstyle\normalsize\bfseries}}
+\renewcommand\paragraph{\@startsection{paragraph}{4}{\z@}%
+                                    {3.25ex \@plus1ex \@minus.2ex}%
+                                    {-1em}%
+                                    {\localfontstyle\normalsize\bfseries}}
+\renewcommand\subparagraph{\@startsection{subparagraph}{5}{\parindent}%
+                                       {3.25ex \@plus1ex \@minus .2ex}%
+                                       {-1em}%
+                                      {\localfontstyle\normalsize\bfseries}}
+%%
+%% chapter redefinition
+%% 
+\definecolor{Light}{gray}{.90}
+\definecolor{Dark}{gray}{.30}
+\definecolor{White}{gray}{.99}
+
+\def\@makechapterhead#1{%
+  \vspace*{50\p@}%
+  {\parindent \z@ \raggedleft \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \if@mainmatter
+        \huge\localfontstyle \colorbox{Dark}{\textcolor{White}{\@chapapp}\space \thechapter}
+        \par\nobreak
+        \vskip 20\p@
+      \fi
+    \fi
+    \interlinepenalty\@M
+    \Huge \localfontstyle \usefont{OT1}{cmss}{c}{n}{#1}\par\rule{\textwidth}{1pt}\nobreak
+    \vskip 40\p@
+  }}
+%% chapter* redefinition
+\def\@makeschapterhead#1{%
+  \vspace*{50\p@}%
+  {\parindent \z@ \raggedleft
+    \normalfont
+    \interlinepenalty\@M
+    \Huge \bfseries \localfontstyle \usefont{OT1}{cmss}{c}{n}{#1} \par\rule{\textwidth}{1pt}\nobreak
+    \vskip 40\p@
+  }}
+
+%%
+%% part redefinition
+%%
+\def\@part[#1]#2{%
+    \ifnum \c@secnumdepth >-2\relax
+      \refstepcounter{part}%
+      \addcontentsline{toc}{part}{\thepart\hspace{1em}#1}%
+    \else
+      \addcontentsline{toc}{part}{#1}%
+    \fi
+    \markboth{}{}%
+    {\centering
+     \interlinepenalty \@M
+     \normalfont
+     \ifnum \c@secnumdepth >-2\relax
+       \huge\localfontstyle \partname\nobreakspace\thepart
+       \par
+       \vskip 20\p@
+     \fi
+     \Huge \localfontstyle #2\par}%
+    \@endpart}
+%% part numbering
+%%\renewcommand \thepart {\@arabic\c@part}
+\renewcommand \thepart {\@Roman\c@part}
+%% part* redefinition
+\def\@spart#1{%
+    {\centering
+     \interlinepenalty \@M
+     \normalfont
+     \Huge \bfseries \localfontstyle#1\par}%
+    \@endpart}
+
+%% OLD STUFF
+%% old lecacy stuff (GIP)
+%% make the page header and footer look (very) different
+%%\setlength{\fboxsep}{8pt}
+%%\addtolength{\headwidth}{.5\evensidemargin}
+
+%%\renewcommand{\headrule}{}
+%%\newcommand{\fboxpage}{\fbox{\hspace*{1mm}\textsf{\thepage}\hspace*{1mm}}}
+
+%%\lhead[ \begin{tabular}{r@{}l}%
+%%        \fboxpage & %
+%%         \parbox{\linewidth}{ \hspace*{1mm} \small{\textbf{Hallo}}%
+%%         \vspace{1mm} \hrule  \vspace{1mm} \hspace*{2mm} {}}%
+%%        \end{tabular}%
+%%        ]{}
+%%\rhead[]{ \begin{tabular}{@{}r@{}l}%
+%%        \parbox{\linewidth}{ \hfill A \tiny{\leftmark}\hspace{1mm} B \vspace{1mm} C %
+%%        \hrule  \vspace{1mm} \hspace{\fill} \small{\@chapapp} \small{\thechapter} \hspace*{2mm} }  & %
+%%        \fboxpage
+%%        \end{tabular}%
+%%}
+%%\cfoot[\hspace*{3mm}\rule{14.4cm}{0.4pt}]{\rule{14.4cm}{0.4pt}}

@@ -1,0 +1,100 @@
+\BOOKMARK [0][-]{chapter*.4}{Acknowledgments}{}
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}
+\BOOKMARK [1][-]{section.1.1}{Mobile Software in a Ubiquitous Computing World}{chapter.1}
+\BOOKMARK [1][-]{section.1.2}{Automating Mobile Software Development}{chapter.1}
+\BOOKMARK [2][-]{subsection.1.2.1}{Programming Models for Mobile Software}{section.1.2}
+\BOOKMARK [2][-]{subsection.1.2.2}{Variation Mechanisms for Mobile Application Product-Lines}{section.1.2}
+\BOOKMARK [1][-]{section.1.3}{Attribute Enabled Software Development}{chapter.1}
+\BOOKMARK [2][-]{subsection.1.3.1}{Mobile Containers}{section.1.3}
+\BOOKMARK [2][-]{subsection.1.3.2}{Lightweight Domain-Specific Abstractions}{section.1.3}
+\BOOKMARK [2][-]{subsection.1.3.3}{Attribute-Driven Transformations}{section.1.3}
+\BOOKMARK [1][-]{section.1.4}{Contributions of this Book}{chapter.1}
+\BOOKMARK [1][-]{section.1.5}{The Structure of the Book}{chapter.1}
+\BOOKMARK [0][-]{chapter.2}{Organizing Mobile Product-Lines with Mobile Containers}{}
+\BOOKMARK [1][-]{section.2.1}{Reusability with Product-Lines}{chapter.2}
+\BOOKMARK [2][-]{subsection.2.1.1}{Two Views of Product-Line Development}{section.2.1}
+\BOOKMARK [2][-]{subsection.2.1.2}{Variation Mechanisms for Mobile Product-Lines}{section.2.1}
+\BOOKMARK [2][-]{subsection.2.1.3}{Object-Oriented Libraries and Frameworks}{section.2.1}
+\BOOKMARK [2][-]{subsection.2.1.4}{Visual Domain-Specific Modeling}{section.2.1}
+\BOOKMARK [2][-]{subsection.2.1.5}{Domain-Specific Modeling with Language Abstractions}{section.2.1}
+\BOOKMARK [1][-]{section.2.2}{Software Containers}{chapter.2}
+\BOOKMARK [2][-]{subsection.2.2.1}{Microsoft COM+}{section.2.2}
+\BOOKMARK [2][-]{subsection.2.2.2}{Java EE and Enterprise Java Beans}{section.2.2}
+\BOOKMARK [2][-]{subsection.2.2.3}{Using Containers Beyond the Enterprise Domain}{section.2.2}
+\BOOKMARK [2][-]{subsection.2.2.4}{Mobile Containers}{section.2.2}
+\BOOKMARK [1][-]{section.2.3}{Container Implementation Techniques}{chapter.2}
+\BOOKMARK [2][-]{subsection.2.3.1}{Non-Invasive Container Implementation Techniques}{section.2.3}
+\BOOKMARK [2][-]{subsection.2.3.2}{Invasive Implementation Techniques}{section.2.3}
+\BOOKMARK [2][-]{subsection.2.3.3}{Non-Invasive versus Invasive Techniques}{section.2.3}
+\BOOKMARK [1][-]{section.2.4}{Aspect-Oriented Programming and Product-Lines}{chapter.2}
+\BOOKMARK [2][-]{subsection.2.4.1}{Introduction to AOP Techniques}{section.2.4}
+\BOOKMARK [2][-]{subsection.2.4.2}{AOP as a Generic Invasive Transformation Technique}{section.2.4}
+\BOOKMARK [1][-]{section.2.5}{Chapter Summary}{chapter.2}
+\BOOKMARK [0][-]{chapter.3}{Attribute Enabled Software Development}{}
+\BOOKMARK [1][-]{section.3.1}{Supporting DSA with Attributes}{chapter.3}
+\BOOKMARK [2][-]{subsection.3.1.1}{Supporting Domain Variability with Attribute Families}{section.3.1}
+\BOOKMARK [2][-]{subsection.3.1.2}{Attribute Parameters}{section.3.1}
+\BOOKMARK [2][-]{subsection.3.1.3}{Connecting Attribute DSA with Product-Line Assets}{section.3.1}
+\BOOKMARK [1][-]{section.3.2}{Advantages of Attribute Programming}{chapter.3}
+\BOOKMARK [2][-]{subsection.3.2.1}{Mapping Marked PIMs to Marking Interfaces}{section.3.2}
+\BOOKMARK [2][-]{subsection.3.2.2}{Mapping Marked PIMs to Pseudo-Syntactic Elements}{section.3.2}
+\BOOKMARK [2][-]{subsection.3.2.3}{Mapping Marked PIMs to Attribute-Enabled Languages}{section.3.2}
+\BOOKMARK [1][-]{section.3.3}{Representing Explicit Attributes in UML}{chapter.3}
+\BOOKMARK [2][-]{subsection.3.3.1}{UML Alternatives for Explicit Attributes}{section.3.3}
+\BOOKMARK [2][-]{subsection.3.3.2}{Discussion of the UML Alternatives}{section.3.3}
+\BOOKMARK [1][-]{section.3.4}{Languages with Generalized and Annotated Abstract Syntax Trees}{chapter.3}
+\BOOKMARK [2][-]{subsection.3.4.1}{Attribute Language Support Example: .NET Languages}{section.3.4}
+\BOOKMARK [2][-]{subsection.3.4.2}{GAAST-Based Language Technology}{section.3.4}
+\BOOKMARK [2][-]{subsection.3.4.3}{Implementing GAAST on Top of .NET}{section.3.4}
+\BOOKMARK [1][-]{section.3.5}{Comparison to other DSL Approaches}{chapter.3}
+\BOOKMARK [2][-]{subsection.3.5.1}{GAAST Languages and Extensible Grammars}{section.3.5}
+\BOOKMARK [2][-]{subsection.3.5.2}{Meta-Programming Approaches}{section.3.5}
+\BOOKMARK [2][-]{subsection.3.5.3}{AOP and DSA}{section.3.5}
+\BOOKMARK [1][-]{section.3.6}{Proper Usage of Explicit Attributes}{chapter.3}
+\BOOKMARK [2][-]{subsection.3.6.1}{When to Annotate?}{section.3.6}
+\BOOKMARK [2][-]{subsection.3.6.2}{What can be Annotated?}{section.3.6}
+\BOOKMARK [1][-]{section.3.7}{Chapter Summary}{chapter.3}
+\BOOKMARK [0][-]{chapter.4}{Building Modular Attribute-Driven Transformers}{}
+\BOOKMARK [1][-]{section.4.1}{Attribute-Driven Transformations}{chapter.4}
+\BOOKMARK [2][-]{subsection.4.1.1}{AST Representation}{section.4.1}
+\BOOKMARK [2][-]{subsection.4.1.2}{Class Transformations}{section.4.1}
+\BOOKMARK [2][-]{subsection.4.1.3}{Mapping Transformation Logic to Attribute Families}{section.4.1}
+\BOOKMARK [2][-]{subsection.4.1.4}{Controlling Composition Semantics with Inner Tags}{section.4.1}
+\BOOKMARK [2][-]{subsection.4.1.5}{The Transformation Workflow}{section.4.1}
+\BOOKMARK [2][-]{subsection.4.1.6}{Layering the Transformation Strategy}{section.4.1}
+\BOOKMARK [2][-]{subsection.4.1.7}{Code-Snippet Templates}{section.4.1}
+\BOOKMARK [2][-]{subsection.4.1.8}{Termination}{section.4.1}
+\BOOKMARK [2][-]{subsection.4.1.9}{Transformation Traceability}{section.4.1}
+\BOOKMARK [1][-]{section.4.2}{Automating Attribute Transformation Concerns}{chapter.4}
+\BOOKMARK [2][-]{subsection.4.2.1}{Expressing Cross-Cutting Concerns with Meta-Attributes}{section.4.2}
+\BOOKMARK [2][-]{subsection.4.2.2}{The Attribute Dependency Model}{section.4.2}
+\BOOKMARK [2][-]{subsection.4.2.3}{The [DependencyAttribute] Class}{section.4.2}
+\BOOKMARK [2][-]{subsection.4.2.4}{The Attribute Dependency Checker \(ADC\) Tool}{section.4.2}
+\BOOKMARK [1][-]{section.4.3}{Related Work}{chapter.4}
+\BOOKMARK [1][-]{section.4.4}{Chapter Summary}{chapter.4}
+\BOOKMARK [0][-]{chapter.5}{MobCon: A Generative Middleware Middleware Framework for J2ME}{}
+\BOOKMARK [1][-]{section.5.1}{Automating Cross-Cutting Concerns of J2ME MIDP Applications}{chapter.5}
+\BOOKMARK [2][-]{subsection.5.1.1}{The Domain: Automating J2ME MIDP Applications}{section.5.1}
+\BOOKMARK [2][-]{subsection.5.1.2}{A GAAST-like Representation for MIDP}{section.5.1}
+\BOOKMARK [2][-]{subsection.5.1.3}{Modeling MIDP Attribute Families}{section.5.1}
+\BOOKMARK [2][-]{subsection.5.1.4}{The MobCon Transformation Engine}{section.5.1}
+\BOOKMARK [2][-]{subsection.5.1.5}{The Mobile Container Architecture}{section.5.1}
+\BOOKMARK [1][-]{section.5.2}{MIDP Programming with MobCon}{chapter.5}
+\BOOKMARK [2][-]{subsection.5.2.1}{Data Persistence}{section.5.2}
+\BOOKMARK [2][-]{subsection.5.2.2}{Screen Management}{section.5.2}
+\BOOKMARK [2][-]{subsection.5.2.3}{Session and Context Management}{section.5.2}
+\BOOKMARK [2][-]{subsection.5.2.4}{Image Adaptation}{section.5.2}
+\BOOKMARK [2][-]{subsection.5.2.5}{Data Encryption}{section.5.2}
+\BOOKMARK [2][-]{subsection.5.2.6}{Network Communication}{section.5.2}
+\BOOKMARK [2][-]{subsection.5.2.7}{Traceability}{section.5.2}
+\BOOKMARK [2][-]{subsection.5.2.8}{Case-Study: The MobRay Application}{section.5.2}
+\BOOKMARK [1][-]{section.5.3}{Extending the MobCon Framework}{chapter.5}
+\BOOKMARK [2][-]{subsection.5.3.1}{Workflow and Plug-in Metadata}{section.5.3}
+\BOOKMARK [2][-]{subsection.5.3.2}{Transformation Details}{section.5.3}
+\BOOKMARK [1][-]{section.5.4}{Related Work}{chapter.5}
+\BOOKMARK [1][-]{section.5.5}{Chapter Summary}{chapter.5}
+\BOOKMARK [0][-]{chapter.6}{Summary and Outlook}{}
+\BOOKMARK [1][-]{section.6.1}{Summary}{chapter.6}
+\BOOKMARK [1][-]{section.6.2}{Limitations and Outlook}{chapter.6}
+\BOOKMARK [0][-]{appendix.A}{MobCon Generated Code for "Hello World" MIDP Example}{}
+\BOOKMARK [0][-]{appendix*.5}{Bibliography}{}

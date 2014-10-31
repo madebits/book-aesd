@@ -1,0 +1,1481 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{vdBHKO02}
+
+\bibitem[ABHR99]{abadi99core}
+M.~Abadi, A.~Banerjee, N.~Heintze, and J.~G. Riecke.
+\newblock {A Core Calculus of Dependency}.
+\newblock {\em {26th ACM SIGPLAN-SIGACT on Principles of Programming Languages
+  (POPL)}}, pages 147--160, 1999.
+
+\bibitem[ACKM04]{webservices.04}
+G.~Alonso, F.~Casati, H.~Kuno, and V~Machiraju.
+\newblock {\em {Web Services - Concepts, Architectures and Applications}}.
+\newblock {Springer}, 2004.
+
+\bibitem[Agr04]{gme.graphs}
+A.~Agrawal.
+\newblock {A Formal Graph-Transformation Based Language for Model-to-Model
+  Transformations}.
+\newblock {\em {PhD Dissertation, Vanderbilt University, Dept of EECS}}, 2004.
+
+\bibitem[AK01]{kuhne.01}
+C.~Atkinson and T.~Kuehne.
+\newblock {The Essence of Multilevel Metamodeling}.
+\newblock {\em {4th International Conference on the Unified Modeling Language
+  (UML)}}, 2001.
+
+\bibitem[AK03]{kuhne.03}
+C.~Atkinson and T.~Kuehne.
+\newblock {Aspect-Oriented Development with Stratified Frameworks}.
+\newblock {\em {IEEE Software, Volume 20, Number 1}}, pages 81--89, 2003.
+
+\bibitem[AM00]{tochi-millenium}
+G.~D. Abowd and E.~D. Mynatt.
+\newblock {Charting Past, Present, and Future Research in Ubiquitous
+  Computing}.
+\newblock {\em {ACM Transactions on Computer-Human Interaction (TOCHI). Volume
+  7, Issue 1}}, pages 29--58, 2000.
+
+\bibitem[And03]{www.AndroMDA}
+{AndroMDA Homepage}.
+\newblock {\em {\url{http://www.andromda.org/}}}, 2003.
+
+\bibitem[Asp04]{www.abc}
+{AspectBench Compiler Homepage}.
+\newblock {\em {\url{http://aspectbench.org/}}}, 2004.
+
+\bibitem[ASS96]{sicp.96}
+H.~Abelson, G.~J. Sussman, and J.~Sussman.
+\newblock {\em {Structure and Interpretation of Computer Programs}}.
+\newblock MIT Press, 1996.
+
+\bibitem[A{\ss}m94]{Assmann.94}
+U.~A{\ss}mann.
+\newblock {On Edge Addition Rewrite Systems and Their Relevance to Program
+  Analysis}.
+\newblock {\em {5th Workshop on Graph Grammars and Their Applications to
+  Computer Science, LNCS 1073}}, pages 321--335, 1994.
+
+\bibitem[A{\ss}m96]{Assmann.96}
+U.~A{\ss}mann.
+\newblock {How to Uniformly Specify Program Analysis and Transformations}.
+\newblock {\em {6th International Conference on Compiler Construction, LNCS
+  1060}}, 1996.
+
+\bibitem[A{\ss}m99]{assmann.99-comparison}
+U.~A{\ss}mann.
+\newblock {\em {A Conceptual Comparison of Current Component Systems}}.
+\newblock Software Best Practice OO Series, Springer, 1999.
+
+\bibitem[A{\ss}m00]{assmann.00}
+U.~A{\ss}mann.
+\newblock {Graph Rewrite Systems for Program Optimization}.
+\newblock {\em {In AMC Transactions on Programming Languages and Systems
+  (TOPLAS), Volume 22, 4}}, 2000.
+
+\bibitem[A{\ss}m03]{java.compost}
+U.~A{\ss}mann.
+\newblock {\em {Invasive Software Composition}}.
+\newblock {Springer-Verlag}, 2003.
+
+\bibitem[ASU88]{aho.88}
+A.~V. Aho, R.~Sethi, and J.~D. Ullman.
+\newblock {\em {Compilers Principles, Techniques and Tools}}.
+\newblock {Addison-Wesley}, 1988.
+
+\bibitem[Att02]{java.attrib4j}
+{Attrib4J Homepage}.
+\newblock {\em {\url{http://attrib4j.sourceforge.net/}}}, 2002.
+
+\bibitem[BB02]{design.ubicom.2002}
+G.~Banavar and A.~Bernstein.
+\newblock {Software Infrastructure and Design Challenges for Ubiquitous
+  Computing Applications}.
+\newblock {\em {Communications of the ACM, Volume 45, Issue 12, SPECIAL ISSUE:
+  Issues and challenges in ubiquitous computing}}, pages 92--96, 2002.
+
+\bibitem[BC90]{bracha90mixinbased}
+G.~Bracha and W.~Cook.
+\newblock {Mixin-Based Inheritance}.
+\newblock {\em {Conference on Object-Oriented Programming: Systems, Languages,
+  and Applications / European Conference on Object-Oriented Programming
+  (OOPSLA/ECOOP)}}, pages 303--311, 1990.
+
+\bibitem[BCH03]{aop.middleware.03}
+R.~Bodkin, A.~Colyer, and J.~Hugunin.
+\newblock {Applying AOP for Middleware Platform Independence}.
+\newblock {\em {Practitioner Reports, Aspect-Oriented Software Development
+  Conference (AOSD)}}, 2003.
+
+\bibitem[BCS00]{batoryetal.00}
+D.~Batory, R.~Cardone, and Y.~Smaragdakis.
+\newblock {Object-Oriented Frameworks and Product Lines}.
+\newblock {\em {1st Software Product Line Conference (SPLC)}}, pages 227--247,
+  2000.
+
+\bibitem[BCVM02]{java.explicit.programming}
+A.~Bryant, A.~Catton, K.~De Volder, and G.~C. Murphy.
+\newblock {Explicit Programming}.
+\newblock {\em {Aspect-Oriented Software Development Conference (AOSD), ACM
+  Press}}, pages 10--18, 2002.
+
+\bibitem[BGJ99]{berner99}
+S.~Berner, M.~Glinz, and S.~Joos.
+\newblock {A Classification of Stereotypes for Object-Oriented Modeling
+  Languages}.
+\newblock {\em {UML '99 - The Unified Modeling Language: Beyond the Standard,
+  LNCS}}, 1723:249 -- 264, 1999.
+
+\bibitem[BH02]{java.maya}
+J.~Backer and W.~C. Hsieh.
+\newblock {Maya: Multiple-Dispatch Syntax Extension in Java}.
+\newblock {\em {Conference on Programming Language Design and Implementation
+  (PLDI), ACM SIGPLAN Notices, Volume 37, Issue 5}}, pages 270--281, 2002.
+
+\bibitem[BHST04]{foda.sem}
+Y.~Bontemps, P.~Heymans, P.-Y. Schobbens, and J.-C. Trigaux.
+\newblock {Semantics of FODA Feature Diagrams}.
+\newblock {\em 3rd Software Product Line Conference (SPLC'04), Software
+  Variability Management for Product Derivation - Towards Tool Support}, 2004.
+
+\bibitem[Big00]{Biggerstaff.ICRS6}
+T.~J. Biggerstaff.
+\newblock {A New Control Structure for Transformation-Based Generators}.
+\newblock {\em {6th International Conference on Software Reuse (ICSR)}}, 2000.
+
+\bibitem[BJMvH00]{dsl-pl.2000}
+D.~S. Batory, C.~Johnson, B.~MacDonald, and D.~von Heeder.
+\newblock {Achieving Extensibility Through Product-Lines and Domain-Specific
+  Languages: A Case Study}.
+\newblock {\em {6th International Conference on Software Reuse (ICSR)}}, pages
+  117--136, 2000.
+
+\bibitem[BK87]{Banerjee.87}
+J.~Banerjee and W.~Kim.
+\newblock {Semantics and Implementation of Schema Evolution in Object-Oriented
+  Databases}.
+\newblock {\em {ACM SIGMOD, International Conference on Management of Data}},
+  1987.
+
+\bibitem[BLS98]{batory98jts}
+D.~Batory, B.~Lofaso, and Y.~Smaragdakis.
+\newblock {JTS: Tools for Implementing Domain-Specific Languages}.
+\newblock {\em {5th International Conference on Software Reuse (ICSR), IEEE
+  Press}}, pages 143--153, 1998.
+
+\bibitem[Bod04]{bodden.04}
+E.~Bodden.
+\newblock {A Lightweight LTL Runtime Verification Tool for Java}.
+\newblock {\em {ACM Conference on Object-Oriented Programming, Systems,
+  Languages and Applications (OOPSLA)}}, 2004.
+
+\bibitem[Bol03]{wce.2003}
+D.~Boling.
+\newblock {\em {Programming Microsoft Windows CE .NET, Third Edition}}.
+\newblock Microsoft Press, 2003.
+
+\bibitem[Bor03]{www.tj}
+{Borland TogetherJ Homepage}.
+\newblock {\em {\url{http://www.borland.com/together/}}}, 2003.
+
+\bibitem[Bos00]{pl.00}
+J.~Bosch.
+\newblock {\em {Design and Use of Software Architectures: Adopting and Evolving
+  a Product Line Approach}}.
+\newblock {Addison-Wesley}, 2000.
+
+\bibitem[Bou04]{www.bc}
+{Bouncy Castle Crypto API}.
+\newblock {\em {\url{http://www.bouncycastle.org/}}}, 2004.
+
+\bibitem[Box00]{clr.com}
+D.~Box.
+\newblock {House of COM}.
+\newblock {\em {MSDN Magazine, December Issue}}, 2000.
+
+\bibitem[BP01]{java.jse}
+J.~Bachrach and K.~Playford.
+\newblock {The Java Syntactic Extender: JSE}.
+\newblock {\em {Conference on Object-Oriented Programming, Systems, Languages
+  and Applications (OOPSLA), ACM SIGPLAN Notices, Volume 36, Issue 11}}, pages
+  31--42, 2001.
+
+\bibitem[BPL01]{gme.milan}
+A.~Bakshi, V.~K. Prasanna, and A.~Ledeczi.
+\newblock {MILAN: A Model Based Integrated Simulation Framework for Design of
+  Embedded Systems}.
+\newblock {\em {Workshop on Languages, Compilers, and Tools for Embedded
+  Systems}}, 2001.
+
+\bibitem[BPM02]{dms.02}
+I.~D. Baxter, C.~Pidgeon, and M.~Mehlich.
+\newblock {DMS: Program Transformations for Practical Scalable Software
+  Evolution}.
+\newblock {\em {International Workshop on Principles of Software Evolution}},
+  2002.
+
+\bibitem[BPSV01]{BurchPasseroneSangiovanni-Vincentelli2001}
+J.~R. Burch, R.~Passerone, and A.~L. Sangiovanni-Vincentelli.
+\newblock {Using Multiple Levels of Abstractions in Embedded Software Design}.
+\newblock {\em {1st International Workshop on Embedded Software}}, 2001.
+
+\bibitem[BS99]{Blostein-Schuerr02:99}
+D.~Blostein and A.~Sch{\"u}rr.
+\newblock {Computing with Graphs and Graph Rewriting}.
+\newblock {\em {Software - Practice and Experience}}, 29(3):1--21, 1999.
+
+\bibitem[BST{\etalchar{+}}94]{genvoca.94}
+D.~Batory, V.~Singhal, J.~Thomas, S.~Dasari, B.~Geraci, and M.~Sirkin.
+\newblock {The GenVoca Model of Software-System Generators}.
+\newblock {\em {IEEE Software.}}, 11(5):89--94, 1994.
+
+\bibitem[C\#02]{netattrib}
+{C\# Programmer's Reference: Introduction to Attributes}.
+\newblock {\em {MSDN:
+  \url{ms-help://MS.VSCC/MS.MSDNVS/csref/html/vclrfintroductiontoattributes.ht%
+m}}}, 2002.
+
+\bibitem[Cal03]{extract}
+P.~W. Calnan.
+\newblock {EXTRACT: Extensible Transformation and Compiler Technology}.
+\newblock {\em {Master of Science Thesis, Worcester Polytechnic Institute,
+  \url{http://www.wpi.edu/Pubs/ETD/Available/etd-0429103-152947/}}}, 2003.
+
+\bibitem[CDK01]{Coulouris.01}
+G.~Coulouris, J.~Dollimore, and T.~Kindberg.
+\newblock {\em Distributed Systems: Concepts and Design, 3rd Edition}.
+\newblock Addison Wesley, 2001.
+
+\bibitem[CE00]{generative.00}
+K.~Czarnecki and U.~W. Eisenecker.
+\newblock {\em {Generative Programming}}.
+\newblock {Addison-Wesley}, 2000.
+
+\bibitem[CE02]{comp.soft.book2}
+I.~Crnkovic and M.~Larsson (Editors).
+\newblock {\em {Building Reliable Component-Based Software Systems}}.
+\newblock {Artech House}, 2002.
+
+\bibitem[Cep04]{cepa.tango.ICSR8}
+V.~Cepa.
+\newblock {Implementing Tag-Driven Transformers with Tango}.
+\newblock {\em {8th International Conference on Software Reuse (ICSR) - LNCS
+  3107}}, pages 296--307, 2004.
+
+\bibitem[CF05]{ea.05}
+R.~Cobbe and M.~Felleisen.
+\newblock {Environmental Acquisition Revisited}.
+\newblock {\em {32nd ACM SIGPLAN-SIGACT symposium on Principles of Programming
+  Languages (POPL)}}, pages 14--25, 2005.
+
+\bibitem[CGT89]{datalog.89}
+S.~Ceri, G.~Gottlog, and L.~Tanca.
+\newblock {What You Always Wanted to Know About Datalog}.
+\newblock {\em {Logic Programming and Databases}}, 1989.
+
+\bibitem[CH03]{model-approach.03}
+K.~Czarnecki and S.~Helsen.
+\newblock {Classification of Model Transformation Approaches}.
+\newblock {\em {2nd Conference on Object-Oriented Programming, Systems,
+  Languages and Applications (OOPSLA), Workshop Generative Techniques in the
+  context of MDA}}, 2003.
+
+\bibitem[Cho04]{uml.tools.criteria}
+{Choosing a UML Modeling Tool}.
+\newblock {\em
+  {\url{http://www.objectsbydesign.com/tools/modeling_tools.html}}}, 2004.
+
+\bibitem[CK05]{cepa.kloppenburg.05}
+V.~Cepa and S.~Kloppenburg.
+\newblock {Representing Explicit Attributes in UML}.
+\newblock {\em {7th International Workshop on Aspect-Oriented Modeling (AOM)}},
+  2005.
+
+\bibitem[CK06]{cepa.2006}
+V.~Cepa and S.~Kloppenburg.
+\newblock {International Conference on Innovative Views of .NET Technologies
+  (IVNET'06)}.
+\newblock {\em Journal of Computing and Information Technology}, 2006.
+
+\bibitem[CM04]{cepa.mezini.gpce.04}
+V.~Cepa and M.~Mezini.
+\newblock {Declaring and Enforcing Dependencies Between .NET Custom
+  Attributes}.
+\newblock {\em {3rd International Conference on Generative Programming and
+  Component Engineering (GPCE'04)}}, 2004.
+
+\bibitem[CM05a]{cepa.mezini.gaast.04}
+V.~Cepa and M.~Mezini.
+\newblock {Language Support for Model-Driven Software Development}.
+\newblock {\em {(Editor M. Aksit) Special Issue Science of Computer Programming
+  (Elsevier) on MDA: Foundations and Applications Model Driven Architecture}},
+  2005.
+
+\bibitem[CM05b]{cepa.mezini.hicss38}
+V.~Cepa and M.~Mezini.
+\newblock {MobCon: A Generative Middleware Framework for Java Mobile
+  Applications}.
+\newblock {\em {38th Hawaii International Conference on System Sciences
+  (HICSS-38)}}, 2005.
+
+\bibitem[CMA94]{cardelli94extensible}
+L.~Cardelli, F.~Matthes, and M.~Abadi.
+\newblock {Extensible Syntax with Lexical Scoping, Digital Systems Research
+  Center}.
+\newblock Technical Report 121, 1994.
+
+\bibitem[CN02]{pl.02}
+P.~Clements and L.~Northrop.
+\newblock {\em {Software Product Lines}}.
+\newblock {Addison-Wesley}, 2002.
+
+\bibitem[CN04]{josh.04}
+Sh. Chiba and K.~Nakagawa.
+\newblock {Josh: An Open AspectJ-like Language}.
+\newblock {\em {3rd Conference on Aspect-Oriented Software Development(AOSD)}},
+  pages 102--111, 2004.
+
+\bibitem[Cor04]{txl.04}
+J.~Cordy.
+\newblock {TXL - A Language for Programming Language Tools and Applications}.
+\newblock {\em {4th Workshop on Language Descriptions, Tools and Applications,
+  (LDTA)}}, 2004.
+
+\bibitem[DCO02]{www.dcom}
+{Distributed COM (DCOM) Technology Homepage}.
+\newblock {\em {\url{http://www.microsoft.com/com/tech/DCOM.asp}}}, 2002.
+
+\bibitem[Del02]{www.nokia.tp}
+{Delivering Hot Content with Confirmation - Nokia Technology Paper}.
+\newblock {\em {\url{http://www.nokia.com/downloads/aboutnokia/
+  press/pdf/CDT_paper_v4_A4n.pdf}}}, 2002.
+
+\bibitem[DJ90]{term.rewrite}
+N.~Dershowitz and J.~P. Jouannaud.
+\newblock {Rewrite Systems}.
+\newblock {\em Handbook of Theoretical Computer Science, Volume B, Chapter 6,
+  Elsevier}, 1990.
+
+\bibitem[Dol99]{otm}
+M.~Dolgicer.
+\newblock {Building a Middleware Platform}.
+\newblock {\em {Component Strategies, Number 3}}, 1999.
+
+\bibitem[Don02]{dong02}
+J.~Dong.
+\newblock {UML Extensions for Design Pattern Compositions}.
+\newblock {\em {Journal of Object Technology}}, 1(5):151--163, 2002.
+\newblock {\url{http://www.jot.fm/issues/issue_2002_11/article3}}.
+
+\bibitem[DSC03]{mof-qvt-ibm-sub.03}
+CBOP DSCT, IBM.
+\newblock {MOF Query / Views / Transformations}.
+\newblock {\em {Initial Submission, OMG Document}}, 2003.
+
+\bibitem[Dug00]{Duggan.00}
+D.~Duggan.
+\newblock {A Mixin-Based, Semantics-Based Approach to Reusing Domain-Specific
+  Programming Languages}.
+\newblock {\em {14th European Conference on Object-Oriented Programming
+  (ECOOP)}}, pages 179--200, 2000.
+
+\bibitem[EBM05]{ubi.infra.survey}
+C.~Enders, A.~Butz, and A.~MacWilliams.
+\newblock {A Survey of Software Infrastructure and Frameworks for Ubiquitous
+  Computing}.
+\newblock {\em {Mobile Information Systems Journal, IOS Press}}, 2005.
+
+\bibitem[Ecl05]{Eclipse.AJDT}
+{Eclipse AspectJ Development Tools Homepage}.
+\newblock {\em \url{http://eclipse.org/ajdt/}}, 2005.
+
+\bibitem[ECM02]{ECMAScript}
+{ECMA-262 ECMAScript Language Specification}.
+\newblock {\em
+  {\url{http://www.ecma-international.org/publications/standards/Ecma-262.htm}%
+}}, 2002.
+
+\bibitem[Eff02]{www.nokia.ep}
+{Efficient MIDP Programming - Nokia Technology Paper}.
+\newblock {\em {\url{http://66.77.83.18/downloads/nokia/documents/}}}, 2002.
+
+\bibitem[EJB03]{ejb21}
+{\em {Enterprise JavaBeans Specification, Version 2.1}}.
+\newblock {Sun Microsystems}, 2003.
+
+\bibitem[EJB04]{ejb30}
+{\em {Enterprise JavaBeans Specification (Annotations), Version 3.0}}.
+\newblock {Sun Microsystems}, 2004.
+
+\bibitem[EMOS04]{XIRC}
+M.~Eichberg, M.~Mezini, K.~Ostermann, and T.~Sch{\"a}fer.
+\newblock Xirc: A kernel for cross-artifact information engineering in software
+  development environments.
+\newblock {\em 11th Working Conference on Reverse Engineering}, 2004.
+
+\bibitem[Ern99]{Ernst.99}
+E.~Ernst.
+\newblock {\em {gbeta - a Language with Virtual Attributes, Block Structure,
+  and Propagating, Dynamic Inheritance}}.
+\newblock {PhD Thesis, University of Aarhus}, 1999.
+
+\bibitem[ET96]{ehrig96computing}
+H.~Ehrig and G.~Taentzer.
+\newblock {Computing by Graph Transformation: A Survey and Annotated
+  Bibliography}.
+\newblock {\em {BEATCS: Bulletin of the European Association for Theoretical
+  Computer Science}}, 59, 1996.
+
+\bibitem[Ewa01]{www.comp}
+T.~Ewald.
+\newblock {\em {Transactional COM+: Building Scalable Applications}}.
+\newblock {Addison-Wesley}, 2001.
+
+\bibitem[FGBA96]{fox96adapting}
+A.~Fox, S.~D. Gribble, E.~A. Brewer, and E.~Amir.
+\newblock {Adapting to Network and Client Variability via On-Demand Dynamic
+  Distillation}.
+\newblock {\em {7th Conference on Architecture Support for Programming
+  Languages and Operating Systems (ASPLOS-VII)}}, 1996.
+
+\bibitem[FGCB98]{fox98adapting}
+A.~Fox, S.~Gribble, Y.~Chawathe, and E.~Brewer.
+\newblock {Adapting to Network and Client Variation Using Active Proxies:
+  Lessons and Perspectives, Special issue of IEEE Personal Communications on
+  Adaptation}, 1998.
+
+\bibitem[Fin96]{apld.96}
+R.~A. Finkel.
+\newblock {\em {Advanced Programming Language Design}}.
+\newblock Addison-Wesley, 1996.
+
+\bibitem[FKF98]{flatt98classes}
+M.~Flatt, S.~Krishnamurthi, and M.~Felleisen.
+\newblock {Classes and Mixins}.
+\newblock {\em {25th {ACM} {SIGPLAN}-{SIGACT} Symposium on Principles of
+  Programming Languages (POPL)}}, pages 171--183, 1998.
+
+\bibitem[FMG02]{emb.gen.02}
+G.~Frick and K.~D. Mueller-Glaser.
+\newblock {Generative Development of Embedded Real-Time Systems}.
+\newblock {\em {European Conference on Object-Oriented Programming (ECOOP),
+  Workshop on Generative Programming}}, 2002.
+
+\bibitem[Fow99]{refactor.99}
+M.~Fowler.
+\newblock {\em {Refactoring Improving the Design of Existing Code}}.
+\newblock {Addison-Wesley}, 1999.
+
+\bibitem[Fow04]{fowler.ioc.04}
+M.~Fowler.
+\newblock {Inversion of Control Containers and the Dependency Injection
+  Pattern}.
+\newblock {\em {\url{http://martinfowler.com/articles/injection.html}}}, 2004.
+
+\bibitem[Fow05]{lang.workbench}
+M.~Fowler.
+\newblock {Language Workbenches: The Killer-App for Domain Specific Languages}.
+\newblock {\em \url{http://martinfowler.com/articles/languageWorkbench.html}},
+  2005.
+
+\bibitem[FPB87]{brooks.87}
+Jr. F.~P.~Brooks.
+\newblock {No Silver Bullet - Essence and Accidents of Software Engineering}.
+\newblock {\em {Computer Magazine, First published in Information Processing
+  1986, ISBN 0444-7077-3, H. J. Kugler, Ed., Elsevia Science Publishers B.V}},
+  1987.
+
+\bibitem[Fra03]{mda.frankel}
+D.~S. Frankel.
+\newblock {\em {Model Driven Architecture - Applying MDA to Enterprise
+  Computing}}.
+\newblock {Wiley}, 2003.
+
+\bibitem[GB04]{gamma.eclipse.04}
+E.~Gamma and K.~Beck.
+\newblock {\em {Contributing to Eclipse}}.
+\newblock {Addison-Wesley}, 2004.
+
+\bibitem[Gen02]{www.genx}
+{Gen \verb@<X>@ Homepage}.
+\newblock {\em {\url{http://www.develop.com/genx/}}}, 2002.
+
+\bibitem[GH02]{java.phobos}
+A.~Granicz and J.~Hickey.
+\newblock {Phobos: A Front-End Approach to Extensible Compilers}.
+\newblock {\em {36th Hawaii International Conference of System Sciences
+  (HICSS)}}, 2002.
+
+\bibitem[GHJV95]{dpatterns}
+E.~Gamma, R.~Helm, R.~Johnson, and J.~Vlissides.
+\newblock {\em {Design Patterns}}.
+\newblock {Addison-Wesley}, 1995.
+
+\bibitem[GJ90]{Parsing.Techniques.90}
+D.~Grune and C.~J. Jacobs.
+\newblock {\em {Parsing Techniques}}.
+\newblock {Ellis Horwood Limited}, 1990.
+
+\bibitem[GL96]{lorenz.96}
+J.~Gil and D.~H. Lorenz.
+\newblock {Environmental Acquisition: A New Inheritance-like Abstraction
+  Mechanism}.
+\newblock {\em {11th ACM SIGPLAN Conference on Object-Oriented Programming,
+  Systems, Languages and Applications (OOPSLA)}}, pages 214--231, 1996.
+
+\bibitem[GMS94]{ghosh94survey}
+K.~Ghosh, B.~Mukherjee, and K.~Schwan.
+\newblock {A Survey of Real-Time Operating Systems}.
+\newblock {\em {A Survey of Real-Time Operating Systems. Technical Report Nr.
+  GIT-CC-93/18, Georgia Institute of Technology}}, 1994.
+
+\bibitem[Gor00]{comp.services}
+A.~Gordon.
+\newblock {\em {COM and COM+ Programming Primer}}.
+\newblock {Prentice Hall}, 2000.
+
+\bibitem[GR89]{smalltalk}
+A.~Goldberg and D.~Robson.
+\newblock {\em {Smalltalk-80: The Language}}.
+\newblock {Addison-Wesley}, 1989.
+
+\bibitem[Gra95]{lisp}
+Paul Graham.
+\newblock {\em {ANSI Common LISP}}.
+\newblock {Prentice Hall}, 1995.
+
+\bibitem[Gra96]{Gramlich.96}
+B.~Gramlich.
+\newblock {Termination and Confluence Properties of Structures Rewrite
+  Systems}.
+\newblock {\em {PhD Thesis}}, 1996.
+
+\bibitem[GSCK04]{sf.04}
+J.~Greenfield, K.~Short, S.~Cook, and S.~Kent.
+\newblock {\em {Software Factories}}.
+\newblock {Addison-Wesley}, 2004.
+
+\bibitem[Hal02]{halloway.02}
+S.~D. Halloway.
+\newblock {\em {Component Development for the Java Platform}}.
+\newblock {Addison-Wesley}, 2002.
+
+\bibitem[Har97]{javabeans}
+R.~E. Harold.
+\newblock {\em {JavaBeans}}.
+\newblock {IDG Books Worldwide}, 1997.
+
+\bibitem[Har01]{harsu.2001}
+M.~Harsu.
+\newblock {A Survey of Product-Line Architectures}.
+\newblock {\em {Technical Report, Tampere University of Technology}}, 2001.
+
+\bibitem[Har03]{cdom}
+N.~Harrison.
+\newblock {Using the CodeDOM}.
+\newblock {\em {O'Reilly Network Article
+  \url{http://www.ondotnet.com/pub/a/dotnet/2003/02/03/codedom.html}}}, 2003.
+
+\bibitem[HB01]{hightower01survey}
+J.~Hightower and G.~Borriello.
+\newblock {A Survey and Taxonomy of Location Systems for Ubiquitous Computing}.
+\newblock {\em {Extended paper from Computer, 34(8) p57-66, August}}, 2001.
+
+\bibitem[Hed97]{hedin.97}
+G.~Hedin.
+\newblock {Attribute Extension - A Technique for Enforcing Programming
+  Conventions}.
+\newblock {\em {Nordic Journal of Computing}}, 1997.
+
+\bibitem[Hel02]{pervasive.java.02}
+S.~Helal.
+\newblock {Pervasive Java}.
+\newblock {\em {IEEE - Pervasive Computing}}, 2002.
+
+\bibitem[Hib04]{hibernate}
+{JBoss Hibernate Project Homepage}.
+\newblock {\em {\url{http://www.hibernate.org/}}}, 2004.
+
+\bibitem[HKC05]{aspectj.uml.05}
+Y.~Han, G.~Kniesel, and A.~Cremers.
+\newblock {Towards Visual AspectJ by a Meta Model and Modeling Notation}.
+\newblock {\em {6th International Workshop on Aspect-Oriented Modeling}}, 2005.
+
+\bibitem[HMU01]{automata.2001}
+J.~E. Hopcroft, R.~Motwani, and J.~D. Ullman.
+\newblock {\em {Introduction to Automata Theory, Languages, and Computation}}.
+\newblock {Addison-Wesley}, 2001.
+
+\bibitem[HS01]{mda}
+T.~Howes and M.~Smith.
+\newblock {Model Driven Architecture (MDA) Technology Paper.}
+\newblock {\em {\url{http://www.omg.org/docs/ormsc/01-07-01.pdf}}}, 2001.
+
+\bibitem[HSW{\etalchar{+}}00]{gme.tinyos}
+J.~Hill, R.~Szewczyk, A.~Woo, S.~Hollar, D.~Culler, and K.~Pister.
+\newblock {System Architecture for Networked Sensors}.
+\newblock {\em {Architectural Support for Programming Languages and Operating
+  Systems (ASPLOS)}}, pages 93--104, 2000.
+
+\bibitem[Hud98]{hudak98modular}
+P.~Hudak.
+\newblock {Modular Domain Specific Languages and Tools}.
+\newblock {\em {5th International Conference on Software Reuse (ICSR)}}, pages
+  134--142, 1998.
+
+\bibitem[Hui02]{www.j2me-ipatterns}
+B.~Hui.
+\newblock {Big Designs for Small Devices - Four J2ME Design Patterns Simplify
+  Interactive Content Development}.
+\newblock {\em {JavaWorld}}, 2002.
+
+\bibitem[Hum02]{hutn}
+{OMG Human-Usable Textual Notation (HUTN): Final Adopted Specification}.
+\newblock {\em {\url{http://www.omg.org}}}, 2002.
+
+\bibitem[Hyp04]{www.hsql}
+{Hypersonic SQL Database Homepage.}
+\newblock {\em {\url{http://hsqldb.sourceforge.net/}}}, 2004.
+
+\bibitem[IR97]{java.epp}
+Y.~Ichisugi and Y.~Roudier.
+\newblock {Extensible Java Preprocessor Kit and Tiny Data-Parallel Java}.
+\newblock {\em {Scientific Computing in Object-Oriented Parallel Environments,
+  (International Symposium on Computing in Object-Oriented Parallel
+  Environments ISCOPE), LNCS 1343}}, pages {153--160}, 1997.
+
+\bibitem[J2E03]{j2ee14}
+{\em {Java 2 Platform Enterprise Edition Specification, Version 1.4}}.
+\newblock {Sun Microsystems}, 2003.
+
+\bibitem[J2M02a]{j2me.2005}
+{J2ME Devices Currently in the Market. Sun Technology Page}.
+\newblock {\em
+  {\url{http://developers.sun.com/techtopics/mobility/device/device}}}, 2002.
+
+\bibitem[J2M02b]{www.midp-ota}
+{J2ME MIDP Specification Version 2.0 JSR118}.
+\newblock {\em
+  {\url{http://jcp.org/aboutJava/communityprocess/final/jsr118/}}}, 2002.
+
+\bibitem[J2M04]{www.j2me.vendors}
+{J2ME Licensed Companies}.
+\newblock {\em
+  {\url{http://java.sun.com/j2me/reference/licensees/index.html}}}, 2004.
+
+\bibitem[Jav02a]{www.j2ee}
+{Java 2 Enterprise Edition (J2EE) Specification}.
+\newblock {\em {\url{http://java.sun.com/j2ee/}}}, 2002.
+
+\bibitem[Jav02b]{javacc}
+{JavaCC LR Parser Builder Tool}.
+\newblock {\em {\url{http://www.webgain.com}}}, 2002.
+
+\bibitem[Jav04]{www.java}
+{Sun Java Technology Homepage}.
+\newblock {\em {\url{http://java.sun.com}}}, 2004.
+
+\bibitem[Jav05]{www.j2me}
+{Java 2 Micro Edition (J2ME) Technology Homepage}.
+\newblock {\em {\url{http://java.sun.com/j2me/}}}, 2005.
+
+\bibitem[Jay04]{www.java.attrib.04}
+N.~Jayaratchagan.
+\newblock {Declarative Programming in Java}.
+\newblock {\em {\url{http://www.OnJava.com./2004/04/21/declarative.html}}},
+  2004.
+
+\bibitem[Jec04]{case.tools}
+M.~Jeckle.
+\newblock {UML Tools}.
+\newblock {\em {\url{http://jeckle.de}}}, 2004.
+
+\bibitem[JGS93]{jonesetal.93}
+N.D. Jones, C.K. Gomard, and P.~Sestoft.
+\newblock {\em {Partial Evaluation and Automatic Program Generation}}.
+\newblock {Prentice Hall International}, 1993.
+
+\bibitem[JH04]{j2ee.without.ejb.04}
+R.~Johnson and J.~Hoeller.
+\newblock {\em {J2EE Development without EJB}}.
+\newblock {Wrox}, 2004.
+
+\bibitem[JHF01]{www.jdbc}
+J.Ellis, L.~Ho, and M.~Fisher.
+\newblock {JDBC 3.0 Specification}.
+\newblock {\em {\url{http://java.sun.com/products/jdbc/}}}, 2001.
+
+\bibitem[JIM04]{www.jimi}
+{JIMI Software Development Kit}.
+\newblock {\em {\url{http://java.sun.com/products/jimi/}}}, 2004.
+
+\bibitem[Joh03]{spring.article.03}
+R.~Johnson.
+\newblock {Introducing the Sprint Framework}.
+\newblock {\em
+  {\url{http://www.theserverside.com/articles/content/SpringFramework/article.%
+html}}}, 2003.
+
+\bibitem[JRvdL00]{pf.00}
+M.~Jazayeri, A.~Ran, and F.~van~der Linden.
+\newblock {\em {Software Architecture for Product Families: Principles and
+  Practices}}.
+\newblock {Addison-Wesley}, 2000.
+
+\bibitem[JSR03]{www.java.meta}
+{JSR 175: A Metadata Facility for the Java Programming Language}.
+\newblock {\em { \url{http://www.jcp.org/en/jsr/detail?id=175}}}, 2003.
+
+\bibitem[Kam98]{kamin.98}
+S.~Kamin.
+\newblock {Research on Domain-Specific Embedded Languages and Program
+  Generators}.
+\newblock {\em {Electronic Notes in Theoretical Computer Science, Elsevier
+  Press, 12}}, 1998.
+
+\bibitem[KCA04]{jmangler}
+G.~Kniesel, P.~Costanza, and M.~Austermann.
+\newblock {JMangler - A Powerful Back-End for Aspect-Oriented Programming}.
+\newblock {\em {In R. Filman, T. Elrad and S. Clarke, M. Aksit (Eds.):
+  "Aspect-oriented Software Development", Prentice Hall}}, 2004.
+
+\bibitem[KCH{\etalchar{+}}90]{foda.90}
+K.~Kang, S.~Cohen, J.~Hess, W.~Nowak, and S.~Peterson.
+\newblock {Feature-Oriented Domain Analysis (FODA) Feasibility Study}.
+\newblock {\em Technical Report, CMU/SEI-90-TR-21, Software Engineering
+  Institute, Carnegie Mellon University}, 1990.
+
+\bibitem[KE02]{Requirements.Engineering}
+C.~Kuloor and A.~Eberlein.
+\newblock {Requirements Engineering for Software Product Lines}.
+\newblock {\em 15th International Conference on Software and Systems
+  Engineering and their Applications (ICSSEA'02)}, 2002.
+
+\bibitem[KHH{\etalchar{+}}01]{www.aspectjt}
+G.~Kiczales, E.~Hilsdale, J.~Hugunin, M.~Kersten, J.~Palm, and W.~G. Griswold.
+\newblock {An Overview of AspectJ}.
+\newblock {\em {European Conference on Object-Oriented Programming (ECOOP),
+  Springer-Verlag, LNCS 2072}}, pages 327--353, 2001.
+
+\bibitem[KKP99]{kahn99next}
+J.~M. Kahn, R.~H. Katz, and K.~S.~J. Pister.
+\newblock {Next Century Challenges: Mobile Networking for ''Smart Dust''}.
+\newblock {\em {Conference on Mobile Computing and Networking (MOBICOM)}},
+  pages 271--278, 1999.
+
+\bibitem[KLM{\etalchar{+}}97]{kiczalesetal.97}
+G.~Kiczales, J.~Lamping, A.~Menhdhekar, C.~Maeda, C.~Lopes, J.~Loingtier, and
+  J.~Irwin.
+\newblock {Aspect-Oriented Programming}.
+\newblock {\em {European Conference on Object-Oriented Programming (ECOOP),
+  Springer-Verlag, LNCS 1241}}, pages 220--243, 1997.
+
+\bibitem[KM05]{aop.attrib.05}
+G.~Kiczales and M.~Mezini.
+\newblock {Separation of Concerns with Procedures, Annotations, Advice and
+  Pointcuts}.
+\newblock {\em {European Conference on Object-Oriented Programming (ECOOP)}},
+  2005.
+
+\bibitem[Knu90]{knuth.90}
+D.~Knuth.
+\newblock {The Genesis of Attribute Grammars}.
+\newblock {\em {Conference on Attribute Grammars and their Applications}},
+  1990.
+
+\bibitem[Lad03]{Laddad.aop}
+R.~Laddad.
+\newblock {\em {AspectJ in Action}}.
+\newblock {Manning Publications Co.}, 2003.
+
+\bibitem[Lad05]{www.aop.metadata}
+R.~Laddad.
+\newblock {AOP and Metadata: A Perfect Match}.
+\newblock
+  {\url{http://www-128.ibm.com/developerworks/java/library/j-aopwork3/}},
+  {March} 2005.
+
+\bibitem[Law02]{lawton.02}
+G.~Lawton.
+\newblock {Moving Java into Mobile Phones}.
+\newblock {\em {IEEE Computer, Volume 35}}, 2002.
+
+\bibitem[Lib01]{csh.attrib}
+J.~Liberty.
+\newblock {\em {Programming C\#}}.
+\newblock {O'Reilly}, 2001.
+
+\bibitem[LM99]{leijen.99}
+D.~Leijen and E.~Meijer.
+\newblock {Domain Specific Embedded Compilers}.
+\newblock {\em {2nd Conference on Domain-Specific Languages}}, 1999.
+
+\bibitem[LMB92]{yacc}
+J.~Levine, T.~Mason, and D.~Brown.
+\newblock {\em {Lex \& Yacc}}.
+\newblock Oreilly, 1992.
+
+\bibitem[LMB{\etalchar{+}}01]{gme.01}
+A.~Ledeczi, M.~Maroti, A.~Bakay, G.~Karsai, J.~Garrett, C.~Thomason IV,
+  G.~Nordstrom, J.~Sprinkle, and P.~Volgyesi.
+\newblock {The Generic Modeling Environment}.
+\newblock {\em {International Workshop on Intelligent Signal Processing}},
+  2001.
+
+\bibitem[LMB{\etalchar{+}}03]{ami2003}
+M.~Lindwer, D.~Marculescu, T.~Basten, R.~Zimmermann, R.~Marculescu, S.~Jung,
+  and E.~Cantatore.
+\newblock {Ambient Intelligence Visions and Achievements: Linking Abstract
+  Ideas to Real-World Concepts}.
+\newblock {\em {Design Automation \& TEst in Europe (DATE)}}, 2003.
+
+\bibitem[Low01]{com.dnet}
+J.~Lowy.
+\newblock {\em {COM and .NET Component Services}}.
+\newblock {O'Reilly}, 2001.
+
+\bibitem[Low03]{.net.context.attrib}
+J.~Lowy.
+\newblock {Contexts in .NET: Decouple Components by Injecting Custom Services
+  into Your Object's Interception Chain}.
+\newblock {\em {MSDN Magazine, March Issue}}, 2003.
+
+\bibitem[LRZJ04]{framed.aspects}
+N.~Loughran, A.~Rashid, W.~Zhang, and S.~Jarzabek.
+\newblock {Supporting Product Lines Evolution with Framed Aspects}.
+\newblock {\em {3rd AOSD Workshop on Aspects, Components, and Patterns for
+  Infrastructure Software (ACP4IS)}}, 2004.
+
+\bibitem[LS00]{www.jndi}
+R.~Lee and S.~Seligman.
+\newblock {\em {Java Naming and Directory Interface (JNDI) API Tutorial and
+  Reference: Building Directory-Enabled Java Applications}}.
+\newblock Addison-Wesley, 2000.
+
+\bibitem[MA99]{gr.99}
+A.~Habel B. Hoffmann H. Kreowski S. Kuske D. Plump A. Schuerr G.~Taentzery
+  M.~Andries, G.~Engels.
+\newblock {Graph Transformation for Specification and Programming}.
+\newblock {\em {Science of Computer Programming, Volume 34, 1}}, 1999.
+
+\bibitem[Mar96]{dip}
+R.~C. Martin.
+\newblock {The Dependency Inversion Principle}.
+\newblock {\em {The C++ Report}}, 1996.
+
+\bibitem[McL01]{mcl.01}
+B.~McLaughlin.
+\newblock {\em {Java and XML}}.
+\newblock {O'Reilly}, {Second Edition} edition, 2001.
+
+\bibitem[MDA03]{mda.guide}
+{OMG Model Driven Architecture (MDA) Guide Version 1.0}.
+\newblock {\em {\url{http://www.omg.org/}}}, 2003.
+
+\bibitem[Men99]{mens.99}
+T.~Mens.
+\newblock {\em {A Formal Foundation for Object-Oriented Software Evolution}}.
+\newblock {PhD Dissertation / Vrije University Brussel}, 1999.
+
+\bibitem[Met02]{www.mof}
+{OMG Meta Object Facility (MOF) Specification}.
+\newblock {\em {\url{http://www.omg.org}}}, 2002.
+
+\bibitem[Met03a]{MetacaseCase.03}
+{Automated Product Family Development: Nokia TETRA Terminal}.
+\newblock {\em {MetaCase White Paper \url{http://metacase.com}}}, 2003.
+
+\bibitem[Met03b]{MetaEdit.Home}
+{MetaEdit+ Homepage}.
+\newblock {\em {\url{http://metacase.com}}}, 2003.
+
+\bibitem[Met04]{www.uml.ejb.omg}
+{OMG Metamodel and UML Profile for Java and EJB Specification, Version 1.0}.
+\newblock {\em {\url{http://www.omg.org}}}, 2004.
+
+\bibitem[Mez97a]{Mezini.97}
+M.~Mezini.
+\newblock {Maintaining the Consistency of Class Libraries During Their
+  Evolution}.
+\newblock {\em {ACM 12th Annual Conference on Object-Oriented Programming,
+  Systems, Languages and Applications (OOPSLA), Sigplan Notices, Volume 32,
+  Number 10}}, pages 1--22, 1997.
+
+\bibitem[Mez97b]{rondo.97}
+M.~Mezini.
+\newblock {\em {Variation-Oriented Programming Beyond Classes and
+  Inheritance}}.
+\newblock {PhD Thesis, University of Siegen}, 1997.
+
+\bibitem[MF03]{majkut.03}
+M.~Majkut and B.~Franczyk.
+\newblock {Generation of Implementations for the Model Driven Architecture with
+  Syntactic Unit Trees}.
+\newblock {\em {2nd Conference on Object-Oriented Programming, Systems,
+  Languages and Applications (OOPSLA), Workshop Generative Techniques in the
+  Context of MDA}}, 2003.
+
+\bibitem[MH00]{www.ejb}
+R.~Monson-Haefel.
+\newblock {\em {Enterprise JavaBeans}}.
+\newblock {Addison-Wesley}, 2000.
+
+\bibitem[Mic05]{dnetcf}
+{Microsoft .NET Compact Framework Homepage}.
+\newblock {\em {\url{http://msdn.microsoft.com/mobility/netcf/}}}, 2005.
+
+\bibitem[{Mic}06a]{csh30}
+{Microsoft Corporation}.
+\newblock {C\# Version 3.0 Language Specification}.
+\newblock {\em \url{http://msdn.microsoft.com/vcsharp/future/}}, 2006.
+
+\bibitem[{Mic}06b]{linq}
+{Microsoft Research}.
+\newblock {The LINQ Project}.
+\newblock {\em \url{http://research.microsoft.com/Comega/}}, 2006.
+
+\bibitem[Min98]{minsky.98}
+N.~H. Minsky.
+\newblock {Why Should Architectural Principles be Enforced?}
+\newblock {\em {IEEE Computer Security, Dependability, and Assurance: From
+  Needs to Solutions}}, 1998.
+
+\bibitem[MK02]{aop.semantics.02}
+H.~Masuhara and G.~Kiczales.
+\newblock {Compilation Semantics of Aspect-Oriented Programs}.
+\newblock {\em {2nd Conference on Aspect-Oriented Software Development
+  (AOSD)}}, 2002.
+
+\bibitem[MK03]{aop.modeling.03}
+H.~Masuhara and G.~Kiczales.
+\newblock {Modeling Crosscutting in Aspect-Oriented Mechanisms}.
+\newblock {\em {European Conference on Object-Oriented Programming (ECOOP)}},
+  2003.
+
+\bibitem[MO03]{Crosscutting1.03}
+M.~Mezini and K.~Ostermann.
+\newblock {Modules for Crosscutting Models}.
+\newblock {\em {Invited Paper at 8th International Conference on Reliable
+  Software Technologies, LNCS 2655}}, 2003.
+
+\bibitem[MO04]{foa-aop.04}
+M.~Mezini and K.~Ostermann.
+\newblock {Variability Management with Feature-Oriented Programming and
+  Aspects}.
+\newblock {\em {Foundations of Software Engineering (FSE-12), ACM SIGSOFT}},
+  2004.
+
+\bibitem[Mob02]{www.midp}
+{Mobile Information Device Profile (MIDP)}.
+\newblock {\em {\url{http://java.sun.com/products/midp/}}}, 2002.
+
+\bibitem[Mob04]{vasian.mobcon.03}
+{MobCon Homepage}.
+\newblock {\em
+  {\url{http://www.st.informatik.tu-darmstadt.de/static/pages/projects/mobcon/%
+index.html}}}, 2004.
+
+\bibitem[MOF03]{mof.qvt}
+{MOF 2.0 Query / Views / Transformations RFP}.
+\newblock {\em {OMG Document: \url{http//:www.omg.org/docs/ad/02-03-03.rtf}}},
+  2003.
+
+\bibitem[Moo05]{midp.practical}
+D.~Moore.
+\newblock {Working with J2ME}.
+\newblock {\em
+  {\url{http://www.theserverside.com/articles/article.tss?l=WorkingwithJ2ME}}},
+  2005.
+
+\bibitem[Muc97]{muchnick.97}
+S.~Muchnick.
+\newblock {\em {Advanced Compiler Construction}}.
+\newblock {Morgan Kaufmann Publishers}, 1997.
+
+\bibitem[Nag96]{Nagl:96}
+M.~Nagl, editor.
+\newblock {\em {The IPSEN Project}}.
+\newblock Lecture Notes in Computer Science. Springer-Verlag, 1996.
+
+\bibitem[New00]{www.sunjini}
+J.~Newmarch.
+\newblock {\em {A Programmer's Guide to Jini Technology}}.
+\newblock {APress}, 2000.
+
+\bibitem[NFH{\etalchar{+}}03]{emb.comp.03}
+M.~Nolin, J.~Fredriksson, J.~Hammarberg, J.~G Huselius, J.~Hakansson,
+  A.~Karlsson, O.~Larses, M.~Lindgren, G.~Mustapic, A.~Moeller, T.~Nolte,
+  J.~Norberg, D.~Nystroem, A.~Tesanovic, and M.~Akerholm.
+\newblock {Component Based Software Engineering for Embedded Systems - A
+  literature survey}.
+\newblock {\em {MRTC Report, Maelardalen University, ISSN 1404-3041}}, 2003.
+
+\bibitem[NN99]{sem.99}
+F.~Nielson and H.~R. Nielson.
+\newblock {\em Semantics with Applications - A Formal Introduction}.
+\newblock Wiley, 1999.
+
+\bibitem[Nok04]{www.nokia}
+{Nokia Homepage}.
+\newblock {\em {\url{http://nokia.com/}}}, 2004.
+
+\bibitem[NV02]{design.attrib}
+J.~Newkirk and A.~Vorontsov.
+\newblock {How .NET's Custom Attributes Affect Design}.
+\newblock {\em {IEEE SOFTWARE, Volume 19(5)}}, pages 18--20, 2002.
+
+\bibitem[Ohl02]{Ohlebusch.01}
+E.~Ohlebusch.
+\newblock {Hierarchical Termination Revisited}.
+\newblock {\em {Information Processing Letters}}, 84(4):207--214, 2002.
+
+\bibitem[OMB05]{alpha.05}
+K.~Ostermann, M.~Mezini, and C.~Bockisch.
+\newblock {Expressive Pointcuts for Increased Modularity}.
+\newblock {\em {European Conference on Object-Oriented Programming (ECOOP)}},
+  2005.
+
+\bibitem[OMG03]{www.uml}
+{OMG Unified Modeling Language Specification}.
+\newblock {\em {\url{http://www.org.org}}}, 2003.
+
+\bibitem[OSG02]{www.osgis}
+{OSGi Specification Release 2}.
+\newblock {\em {\url{http://www.osgi.org/resources/}}}, 2002.
+
+\bibitem[Ost03]{Crosscutting2.03}
+K.~Ostermann.
+\newblock {Modules for Hierarchical and Crosscutting Models}.
+\newblock {\em {PhD Thesis, Computer Science Department, Darmstadt University
+  of Technology}}, 2003.
+
+\bibitem[Paa95]{attrib.gram}
+J.~Paakki.
+\newblock {Attribute Grammars Paradigms - A High-Level Methodology in Language
+  Implementation}.
+\newblock {\em {ACM Computing Surveys, Volume 27, Number 2}}, pages 196--255,
+  1995.
+
+\bibitem[PAG03]{spont.container}
+A.~Popovici, G.~Alonso, and T.~Gross.
+\newblock {Spontaneous Container Services}.
+\newblock {\em {European Conference on Object-Oriented Programming (ECOOP)}},
+  2003.
+
+\bibitem[Pal04]{palm}
+{Palm Homepage}.
+\newblock {\em {\url{http://www.palm.com/}}}, 2004.
+
+\bibitem[Par72]{parnas.72}
+D.~L. Parnas.
+\newblock {On the Criteria to be Used in Decomposing Systems into Modules}.
+\newblock {\em {Communications of the ACM}}, {15(12)}:1053--1058, 1972.
+
+\bibitem[Par76]{Parnas.pl.96}
+D.~Parnas.
+\newblock {On the design and development of program families}.
+\newblock {\em {IEEE Transactions on Software Engineering 2(1), March}}, pages
+  1--9, 1976.
+
+\bibitem[Par02]{antlr}
+T.~Parr.
+\newblock {ANTLR - ANother Tool for Language Recognition}.
+\newblock {\em {\url{http://antlr.org}}}, 2002.
+
+\bibitem[PGA02]{prose}
+A.~Popovici, T.~Gross, and G.~Alonso.
+\newblock {Dynamic Weaving for Aspect Oriented Programming}.
+\newblock {\em {1st International Conference on Aspect-Oriented Software
+  Development (AOSD)}}, 2002.
+
+\bibitem[Pic03]{java.picocont}
+{PicoContainer Homepage}.
+\newblock {\em {\url{http://www.picocontainer.org/}}}, 2003.
+
+\bibitem[Plu95]{Plump.95}
+D.~Plump.
+\newblock {On Termination of Graph Rewriting}.
+\newblock {\em {Conference on Graph Theoretic Concepts in Computer Science}},
+  1995.
+
+\bibitem[Plu01]{Plump.2001}
+D.~Plump.
+\newblock {Essentials of Term Graph Rewriting}.
+\newblock {\em {Electronic Notes in Theoretical Computer Science, Volume 51}},
+  2001.
+
+\bibitem[PMD03]{www.pmd}
+{PMD Java Source Code Scanner}.
+\newblock {\em {\url{http://pmd.sourceforge.net}}}, 2003.
+
+\bibitem[Poc04]{PocketPC}
+{Pocket PC Homepage}.
+\newblock {\em
+  {\url{http://www.microsoft.com/windowsmobile/pocketpc/ppc/default.mspx}}},
+  2004.
+
+\bibitem[Pol00]{jw-pollac}
+M.~Pollack.
+\newblock {Code Generation Using Javadoc}.
+\newblock {\em {JavaWorld,
+  \url{http://www.javaworld.com/javaworld/jw-08-2000/jw-0818-javadoc.html}}},
+  2000.
+
+\bibitem[POM03]{aspectComp.03}
+R.~Pichler, K.~Ostermann, and M.~Mezini.
+\newblock {On Aspectualizing Component Models}.
+\newblock {\em {Software Practice and Experience, Volume 33, Issue 10, pp.
+  957-974}}, 2003.
+
+\bibitem[PQVR{\etalchar{+}}00]{soot.00}
+P.~Pominville, F.~Qian, R.~Vallée-Rai, L.~Hendren, and C.~Verbrugge.
+\newblock {A Framework for Optimizing Java Using Attributes}.
+\newblock {\em {IBM Center for Advanced Studies (CAS) Conference}}, 2000.
+
+\bibitem[Pro02]{www.dotnet}
+J.~Prosise.
+\newblock {\em {Programming Microsoft .NET}}.
+\newblock {Microsoft Press}, 2002.
+
+\bibitem[PT02]{metaedit.embedded}
+R.~Pohjonen and J.~Tolvanen.
+\newblock {Automated Production of Family Members: Lessons Learned}.
+\newblock {\em {Conference on Object-Oriented Programming, Systems, Languages
+  and Applications (OOPSLA), Workshop on Product Line Engineering}}, 2002.
+
+\bibitem[Pus02]{Pussinen.2002}
+M.~Pussinen.
+\newblock {A Survey of Software Product-Line Evolution}.
+\newblock {\em {Technical Report, Tampere University of Technology}}, 2002.
+
+\bibitem[QAL05]{brew}
+{QUALCOMM BREW Homepage}.
+\newblock {\em {\url{http://brew.qualcomm.com/}}}, 2005.
+
+\bibitem[QDo03]{qdox}
+{QDox Java Tag Parser}.
+\newblock {\em {\url{http://qdox.codehaus.org/}}}, 2003.
+
+\bibitem[Rad03]{www.xray}
+{Radiology Manager Medical Application}.
+\newblock {\em {\url{http://www.mysterian.com}}}, 2003.
+
+\bibitem[Ram02]{dnet.remoting}
+I.~Rammer.
+\newblock {\em Advanced .NET Remoting (C\# Edition)}.
+\newblock APress, 2002.
+
+\bibitem[RH04]{mozart.04}
+P.~Van Roy and S.~Haridi.
+\newblock {\em {Concepts, Techniques, and Models of Computer Programming}}.
+\newblock {MIT Press}, 2004.
+
+\bibitem[Rie96]{riel.96}
+A.~Riel.
+\newblock {\em {Object-Oriented Design Heuristics}}.
+\newblock {Addison Wesley}, 1996.
+
+\bibitem[RS97]{Rekers-Schuerr02:97}
+J.~Rekers and A.~Sch{\"u}rr.
+\newblock Defining and parsing visual languages with layered graph grammars.
+\newblock {\em Journal of Visual Languages and Computing}, 8(1):27--55, 1997.
+
+\bibitem[RVDA01]{AmI}
+Editors~G. Riva, F.~Vatalaro, F.~Davide, and M.~Alcaniz.
+\newblock {\em {Ambient Intelligence}}.
+\newblock {IOS Press \url{http://www.emergingcommunication.com/volume6.html}},
+  2001.
+
+\bibitem[SAW94]{schilit94contextaware}
+B.~Schilit, N.~Adams, and R.~Want.
+\newblock {Context-Aware Computing Applications}.
+\newblock In {\em {IEEE Workshop on Mobile Computing Systems and
+  Applications}}, 1994.
+
+\bibitem[SB00]{pl.levels.00}
+M.~Svahnberg and J.~Bosch.
+\newblock {Issues Concerning Variability in Software Product Lines}.
+\newblock {\em {Software Architectures for Product Families, IW-SAPF-3, LNCS,
+  Volume 1951}}, pages 146--157, 2000.
+
+\bibitem[SB02]{SmaragdakisBatory.02}
+Y.~Smaragdakis and D.~Batory.
+\newblock {Mixin layers: an Object-Oriented Implementation Technique for
+  Refinements and Collaboration-Based Designs}.
+\newblock {\em {ACM Trans. Softw. Eng. Methodol.}}, 11(2):215--255, 2002.
+
+\bibitem[Sch94a]{ooc}
+A.~Schreiner.
+\newblock {\em {Object-Oriented Programming with ANSI-C}}.
+\newblock Hanser, Munich, 1994.
+
+\bibitem[Sch94b]{schurr.graph.94}
+A.~Sch{\"u}rr.
+\newblock {Rapid Programming with Graph Rewrite Rules}.
+\newblock {\em {USENIX Symposium Very High Level Languages (VHLL), Berkeley:
+  USENIX Association}}, 1994.
+
+\bibitem[SDN04]{Nathanael.04}
+N.~Sch{\"{a}}rli, S.~Ducasse, and O.~Nierstrasz.
+\newblock {Composable Encapsulation Policies}.
+\newblock {\em {18th European Conference on Object-Oriented Programming
+  (ECOOP)}}, 2004.
+
+\bibitem[SG01]{skonnardetal.01}
+A.~Skonnard and M.~Gudgin.
+\newblock {\em {Essential {XML}: Quick Reference}}.
+\newblock {Addison-Wesley}, 2001.
+
+\bibitem[SGM02]{comp.soft.book}
+C.~Szyperski, D.~Gruntz, and S.~Murer.
+\newblock {\em {Component Software - Beyond Object-Oriented Programming}}.
+\newblock {Addison-Wesley / ACM Press}, 2002.
+
+\bibitem[SK97]{gme.mic}
+J.~Sztipanovits and G.~Karsai.
+\newblock {Model-Integrated Computing}.
+\newblock {\em {IEEE Computer}}, 1997.
+
+\bibitem[Spr04]{www.spring}
+{Spring Application Framework Homepage}.
+\newblock {\em {\url{http://www.springframework.org/}}}, 2004.
+
+\bibitem[SQL03]{www.sqlj}
+{SQLj Homepage}.
+\newblock {\em {\url{http://www.sqlj.org/}}}, 2003.
+
+\bibitem[SSRB00]{patterns2}
+D.~Schmidt, M.~Stal, H.~Rohnert, and F.~Buchmann.
+\newblock {\em {Pattern Oriented Software Architecture. Volume 2}}.
+\newblock {Wiley}, 2000.
+
+\bibitem[Ste99]{hutn.dipl}
+J.~R. Steel.
+\newblock {Generating Human-Usable Textual Notations For Information Models}.
+\newblock {\em {Diploma Thesis - Department of Computer Science and Electrical
+  Engineering, University of Queensland, Brisbane, Australia}}, 1999.
+
+\bibitem[Str97]{cpp.97}
+B.~Stroustrup.
+\newblock {\em {The C++ Programming Language, Third Edition}}.
+\newblock Addison-Wesley, 1997.
+
+\bibitem[SWZ95]{schuerr.95}
+A.~Sch\"{u}rr, A.~Winter, and A.~Z\"{u}rndorf.
+\newblock {Graph Grammar Engineering with PROGRESS}.
+\newblock {\em {European Software Engineering Conference ESEC 5, LNCS 989}},
+  pages 219--234, 1995.
+
+\bibitem[SY01]{shomrat.01}
+M.~Shomrat and A.~Yehudai.
+\newblock {Obvious or Not? Regulating Architectural Decisions Using
+  Aspect-Oriented Programming}.
+\newblock {\em {Aspect-Oriented Software Development (AOSD)}}, 2001.
+
+\bibitem[TBG03]{aop.paradox.03}
+T.~Tourwe, J.~Brichau, and K.~Gybels.
+\newblock {On the Existence of the AOSD-Evolution Paradox}.
+\newblock {\em {Aspect-Oriented Software Development Conference - Workshop on
+  Software-Engineering Properties of Languages for Aspect Technologies}}, 2003.
+
+\bibitem[TCKI00]{java.openJava}
+M.~Tatsubori, S.~Chiba, M.~Killijian, and K.~Itano.
+\newblock {OpenJava: A Class-based Macro System for Java}.
+\newblock {\em {Conference on Object-Oriented Programming, Systems, Languages
+  and Applications (OOPSLA), Reflection and Software Engineering Workshop}},
+  2000.
+
+\bibitem[The02]{www.self}
+{The Self Programming Language}.
+\newblock {\em {\url{http://research.sun.com/self/language.html}}}, 2002.
+
+\bibitem[Tho98]{wearable.1998}
+E.~O. Thorp.
+\newblock {The Invention of the First Wearable Computer}.
+\newblock {\em {2nd Symposium on Wearable Computers}}, pages 4--8, 1998.
+
+\bibitem[TS97]{Taha.1997}
+W.~Taha and T.~Sheard.
+\newblock {Multi-stage Programming}.
+\newblock {\em {ACM SIG{\-}PLAN Notices}}, {32}(8), 1997.
+
+\bibitem[TS01]{xslt}
+D.~Tidwelland and S.~S.Laurent.
+\newblock {\em {XSLT}}.
+\newblock {O'Relly}, 2001.
+
+\bibitem[UML03]{www.uml.ejb}
+{UML Profile for EJB, JSR26}.
+\newblock {\em {\url{http://jpc.org/jsr/detail/26.jsp}}}, 2003.
+
+\bibitem[vdBHKO02]{asfsdf.02}
+M.~G.~J. van~der Brand, J.~Heering, P.~Klint, and P.A. Oliver.
+\newblock {Compiling Language Definitions: The ASF+SDF Compiler}.
+\newblock {\em {ACM Transactions on Programming Languages and Systems, Volume
+  24, Number 4}}, pages 334--368, 2002.
+
+\bibitem[vDK01]{foda.dsl}
+A.~van Deursen and P.~Klint.
+\newblock {Domain-Specific Language Design Requires Feature Descriptions}.
+\newblock {\em Journal of Computing and Information Technology}, 2001.
+
+\bibitem[vDKV00]{deursenetal.00}
+A.~van Deursen, P.~Klint, and J.~Visser.
+\newblock {Domain-Specific Languages}.
+\newblock {\em {ACM SIGPLAN Notices}}, 35:26--36, 6 2000.
+
+\bibitem[vDo03]{vdoclet}
+{vDoclet Java Code-Generation Framework}.
+\newblock {\em {\url{http://vdoclet.sourceforge.net/}}}, 2003.
+
+\bibitem[Vel03]{velocity}
+{Velocity Template Scritp Engine for Java}.
+\newblock {\em {\url{http://jakarta.apache.org/velocity/index.html}}}, 2003.
+
+\bibitem[Vel04]{www.velocity.powered}
+{Velocity Powered Applications}.
+\newblock {\em {\url{http://jakarta.apache.org/velocity/powered.html}}}, 2004.
+
+\bibitem[Vis01a]{trans.strategy.01}
+E.~Visser.
+\newblock {A Survey of Rewriting Strategies in Program Transformation Systems}.
+\newblock {\em {Workshop on Reduction Strategies in Rewriting and Programming
+  (WRSRP)}}, 2001.
+
+\bibitem[Vis01b]{stratego.01}
+E.~Visser.
+\newblock {Stratego: A Language for Program Transformations Based on Rewriting
+  Strategies}.
+\newblock {\em {Rewriting Techniques and Applications (RTA), LNCS 2051}}, pages
+  357--361, 2001.
+
+\bibitem[VL02]{gme.gratis}
+P.~Voelgyesi and A.~Ledezi.
+\newblock {Component-Based Development of Networked Embedded Applications}.
+\newblock {\em {28th Euromicro Conference, Component-Based Software Engineering
+  Track}}, 2002.
+
+\bibitem[Voe03a]{voelter.generation}
+M.~Voelter.
+\newblock {A collection of Patterns for Program Generation}.
+\newblock {\em {European Conference on Pattern Languages of Programs
+  (EuroPLoP)}}, 2003.
+
+\bibitem[Voe03b]{www.smallcomps}
+M.~Voelter.
+\newblock {A Generative Component Infrastructure for Embedded Systems}.
+\newblock {\em {\url{http://www.voelter.de/data/pub/SmallComponents.pdf}}},
+  2003.
+
+\bibitem[VSW02]{server.patterns.02}
+M.~Voelter, A.~Schmid, and E.~Wolf.
+\newblock {\em {Server Components Patterns, Illustrated with EJB}}.
+\newblock {Wiley \& Sons}, 2002.
+
+\bibitem[vWV03]{ptm.03}
+J.~van Wijngaarden and E.~Visser.
+\newblock {Program Transformation Mechanics. A Classification of Mechanisms for
+  Program Transformation with a Survey of Existing Transformation Systems}.
+\newblock {\em {Technical Report UU-CS-2003-048. Institute of Information and
+  Computing Sciences, Utrecht University}}, 2003.
+
+\bibitem[WAP03]{www.wap}
+{WAP Forum Homepage}.
+\newblock {\em {\url{http://www.wapforum.org/}}}, 2003.
+
+\bibitem[War94]{lop.94}
+M.~Ward.
+\newblock {Language Oriented Programming}.
+\newblock {\em {Software - Concept and Tools}}, pages 147--161, 1994.
+
+\bibitem[WB00]{java.compilers.book}
+D.~A. Watt and D.~F. Brown.
+\newblock {\em {Programming Language Processors in Java}}.
+\newblock {Prentice Hall}, 2000.
+
+\bibitem[Wea04]{Weave.NET}
+{Weave.NET}.
+\newblock {\em {\url{http://www.dsg.cs.tcd.ie/sites/Weave.NET.html}}}, 2004.
+
+\bibitem[Web03]{www.webmacro}
+{WebMacro Template Script Language}.
+\newblock {\em {\url{http://www.webmacro.org/}}}, 2003.
+
+\bibitem[Wei91]{Weiser.01}
+M.~Weiser.
+\newblock {The Computer for the Twenty-First Century}.
+\newblock {\em {Scientific American}}, 1991.
+
+\bibitem[Wei93]{Weiser.02}
+M.~Weiser.
+\newblock {Some Computer Science Problems in Ubiquitous Computing}.
+\newblock {\em {Communications of the ACM}}, 1993.
+
+\bibitem[Wei94]{Weiser.03}
+M.~Weiser.
+\newblock {The World is not a Desktop}.
+\newblock {\em {ACM Interactions}}, 1994.
+
+\bibitem[Wir77]{realtime.77}
+N.~Wirth.
+\newblock {Toward a Discipline of Real-Time Programming}.
+\newblock {\em {Communications of ACM}}, 20(8):577--583, 1977.
+
+\bibitem[WLLP01]{warneke01smart}
+B.~Warneke, M.~Last, B.~L., and K.~S.~J. Pister.
+\newblock {Smart Dust: Communicating with a Cubic-Millimeter Computer}.
+\newblock {\em Computer}, 34(1):44--51, 2001.
+
+\bibitem[WMBK02]{morr.02}
+E.~Van Wyk, O.~De Morr, K.~Backhouse, and P.~Kwiatkowski.
+\newblock {Forwarding in Attribute Grammars for Modular Language Design}.
+\newblock {\em {Compiler Construction}}, pages 128--142, 2002.
+
+\bibitem[xDo03]{www.xDoclet}
+{xDoxclet Code Generation Engine}.
+\newblock {\em {\url{http://xdoclet.sourceforge.net/}}}, 2003.
+
+\bibitem[XML99]{url.xpath}
+{XML Path Language (XPath)}.
+\newblock {\em {\url{http://www.w3.org/TR/xpath}}}, 1999.
+
+\bibitem[XQu05]{www.xQuery}
+{XQuery - An XML Query Language Homepage}.
+\newblock {\em {\url{http://www.w3.org/TR/xquery/}}}, 2005.
+
+\bibitem[YCS{\etalchar{+}}02]{aop.da.02}
+Z.~Yang, B.~H.~C. Cheng, R.~E.~K. Stirewalt, J.~Sowell, S.~M. Sadjadi, and
+  P.~K. McKinley.
+\newblock {An Aspect-Oriented Approach to Dynamic Adaptation}.
+\newblock {\em {Workshop on Self-healing Systems, AMC SIGSOFT}}, pages 85--92,
+  2002.
+
+\bibitem[YD04]{dnet.compact}
+P.~Yao and D.~Durant.
+\newblock {\em {.NET Compact Framework Programming with C\#}}.
+\newblock {Addison-Wesley}, 2004.
+
+\bibitem[Zde02]{cs.codedom.parser}
+I.~Zderadicka.
+\newblock {CS CODEDOM Parser}.
+\newblock {\em {\url{http://ivanz.webpark.cz/csparser.html}}}, 2002.
+
+\bibitem[Zen04]{keris.04}
+M.~Zenger.
+\newblock {Keris: Evolving Software with Extensible Modules}.
+\newblock {\em {Journal of Software Maintenance and Evolution: Research and
+  Practice (Special Issue on USE), Wiley}}, 2004.
+
+\bibitem[ZJF01]{foda.uml1}
+T.~Ziadi, J.-M. Jezequel, and F.~Fondement.
+\newblock {Product Line Engineering with UML}.
+\newblock {\em Workshop on Model Driven Architecture and Product Line
+  Engineering, (SPLC'02)}, 2001.
+
+\bibitem[ZO01]{extensible.compilers}
+M.~Zenger and M.~Odersky.
+\newblock {Implementing Extensible Compilers}.
+\newblock {\em {Workshop on Multiparadigm Programming with Object-Oriented
+  Languages}}, 2001.
+
+\end{thebibliography}

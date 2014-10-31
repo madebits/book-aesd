@@ -1,0 +1,241 @@
+\begin{thebibliography}{10}
+
+\bibitem{java.explicit.programming}
+K.~De Volder G. C.~Murphy A.~Bryant, A.~Catton.
+\newblock {Explicit Programming}.
+\newblock {\em {In Proc. of AOSD '02, ACM Press}}, pages 10--18, 2002.
+
+\bibitem{skonnardetal.01}
+M.~Gudgin A.~Skonnard.
+\newblock {\em Essential {XML} Quick Reference}.
+\newblock Addison-Wesley, 2001.
+
+\bibitem{java.compost}
+U.~A{\ss}mann.
+\newblock {\em Invasive Software Composition}.
+\newblock Springer-Verlag, 2003.
+
+\bibitem{batoryetal.00}
+D.~Batory, R.~Cardone, and Y.~Smaragdakis.
+\newblock {Object-Oriented Frameworks and Product Lines}.
+\newblock In P.~Donohoe, editor, {\em Proceedings of the First Software Product
+  Line Conference}, pages 227--247, 2000.
+
+\bibitem{Biggerstaff.ICRS6}
+T.~J. Biggerstaff.
+\newblock {A New Control Structure for Transformation-Based Generators}.
+\newblock {\em {Proc. of 6th International Conerence on Software Reuse}}, 2000.
+
+\bibitem{www.midp-ota}
+C.~Bloch and A.~Wagner.
+\newblock {\em {MIDP 2.0 Style Guide for the Java 2 Platform, Micro Edition}}.
+\newblock {Addison-Wesley}, 2003.
+
+\bibitem{mda.frankel}
+{D. S. Frankel}.
+\newblock {\em {Model Driven Architecture - Applying MDA to Enterprise
+  Computing}}.
+\newblock Wiley, 2003.
+
+\bibitem{xslt}
+S.~St.Laurent D.~Tidwell.
+\newblock {\em XSLT}.
+\newblock O'Relly, 2001.
+
+\bibitem{mof-qvt-ibm-sub.03}
+{DSCT, IBM, CBOP}.
+\newblock {MOF Query / Views / Transformations}.
+\newblock {\em {Initial Submition, OMG Document}}, 2003.
+
+\bibitem{stratego.01}
+{E. Visser}.
+\newblock {Stratego: A Language for Program Transformations Based on Rewriting
+  Strategies}.
+\newblock {\em {Rewriting Techniques and Applications (RTA'01), LNCS 2051}},
+  pages 357--361, 2001.
+
+\bibitem{kiczalesetal.97}
+{G. Kiczales, J. Lamping, A. Menhdhekar, C. Maeda, C. Lopes, J. Loingtier, J.
+  Irwin}.
+\newblock Aspect-{O}riented {P}rogramming.
+\newblock {\em In Proc. {ECOOP} '97, Springer-Verlag, LNCS 1241}, pages
+  220--243, 1997.
+
+\bibitem{jmangler}
+M.~Austermann G.~Kniesel, P.~Costanza.
+\newblock {JMangler - A Powerful Back-End for Aspect-Oriented Programming}.
+\newblock {\em {In R. Filman, T. Elrad and S. Clarke, M. Aksit (Eds.):
+  "Aspect-oriented Software Development", Prentice Hall}}, 2004.
+
+\bibitem{dms.02}
+{I. D. Baxter, C. Pidgeon, M. Mehlich}.
+\newblock {DMS: Program Transformations For Practical Scalable Software
+  Evolution}.
+\newblock {\em {Proc. of International Workshop on Principles of Software
+  Evolution}}, 2002.
+
+\bibitem{cs.codedom.parser}
+{I. Zderadicka}.
+\newblock {CS CODEDOM Parser}.
+\newblock {\em {\url{http://ivanz.webpark.cz/csparser.html}}}, {2002}.
+
+\bibitem{java.epp}
+Yuuji Ichisugi.
+\newblock {Extensible Type System Framework for a Java Pre-Processor: EPP}.
+\newblock {\em { \url{staff.aist.go.jp/y-ichisugi/epp/}}}, 2000.
+
+\bibitem{java.jse}
+K.~Playford J.~Bachrach.
+\newblock {The Java Syntactic Extender: JSE}.
+\newblock {\em {In Proc. of OOPSLA '01, ACM SIGPLAN Notices, Volume 36, Issue
+  11 }}, pages 31--42, 2001.
+
+\bibitem{Banerjee.87}
+W.~Kim J.~Banerjee.
+\newblock {Semantics and Implementation of Schema Evolution in Object-Oriented
+  Databases}.
+\newblock {\em {Proc. of ACM SIGMOD International Conference on Management of
+  Data}}, 1987.
+
+\bibitem{product.lines}
+{J. Bosch}.
+\newblock {\em {Design and Use of Software Architectures, Adopting and Evolving
+  a Product-Line Approach}}.
+\newblock {Addison-Wesley}, 2002.
+
+\bibitem{txl.04}
+{J. Cordy}.
+\newblock {TXL - A Language for Programming Language Tools and Applications}.
+\newblock {\em {Proc. of 4th Workshop on Language Descriptions, Tools and
+  Applications, LDTA}}, 2004.
+
+\bibitem{velocity}
+J.~Cole J.~D.~Gradecki.
+\newblock {\em {Mastering Apache Velocity}}.
+\newblock {John Wiley \& Sons Inc}, 2003.
+
+\bibitem{design.attrib}
+{J. Newkirk and A. Vorontsov}.
+\newblock {How .NET's Custom Attributes Affect Design}.
+\newblock {\em {IEEE SOFTWARE, Volume 19(5)}}, pages 18--20, {September /
+  October 2002}.
+
+\bibitem{ptm.03}
+{J, van Wijngaarden, E, Visser}.
+\newblock {Program Transformation Mechanics. A Classification of Mechanisms for
+  Program Transformation with a Survey of Existing Transformation Systems}.
+\newblock {\em {Technical Report UU-CS-2003-048. Institute of Information and
+  Computing Sciences, Utrecht University}}, 2003.
+
+\bibitem{model-approach.03}
+S.~Helsen K.~Czarnecki.
+\newblock {Classification of Model Transformation Approaches}.
+\newblock {\em {Proc. of 2nd OOPSLA Workshop Generative Techniques in the
+  context of MDA}}, 2003.
+
+\bibitem{cardelli94extensible}
+M.~Abadi L.~Cardelli, F.~Matthes.
+\newblock {Extensible Syntax with Lexical Scoping}.
+\newblock Technical Report 121, Digital Equipment, 1994.
+
+\bibitem{asfsdf.02}
+{M. G. J. van der Brand, J. Heering, P. Klint, P.A. Oliver}.
+\newblock {Compiling Language Definitions: The ASF+SDF Compiler}.
+\newblock {\em {ACM Transactions on Programming Languages and Systems, Vol. 24,
+  No. 4}}, pages 334--368, 2002.
+
+\bibitem{majkut.03}
+B.~Franczyk M.~Majkut.
+\newblock {Generation of Implementations for the Model Driven Architecture with
+  Syntactic Unit Trees}.
+\newblock {\em {Proc. of 2nd OOPSLA Workshop Generative Techniques in the
+  context of MDA}}, 2003.
+
+\bibitem{voelter.generation}
+{M. Voelter}.
+\newblock {A collection of Patterns for Program Generation}.
+\newblock {\em {Proc. EuroPLoP}}, 2003.
+
+\bibitem{mens.99}
+T.~Mens.
+\newblock {\em A Formal Foundation for Object-Oriented Software Evolution}.
+\newblock Ph.D Disseration / Vrije University Brussel, 1999.
+
+\bibitem{vasian.mobcon.03}
+{MobCon Homepage}.
+\newblock {\em
+  {\url{http://www.st.informatik.tu-darmstadt.de/static/pages/projects/mobcon/%
+index.html}}}, 2003.
+
+\bibitem{www.ejb}
+R.~Monson-Haefel.
+\newblock {\em Enterprise {J}ava{B}eans}.
+\newblock Addison-Wesley, 2000.
+
+\bibitem{cdom}
+{N. Harrison}.
+\newblock {Using the CodeDOM}.
+\newblock {\em {O'Reilly Network
+  \url{http://www.ondotnet.com/pub/a/dotnet/2003/02/03/codedom.html}}}, 2003.
+
+\bibitem{extract}
+{P. W. Calnan}.
+\newblock {EXTRACT: Extensible Transformation and Compiler Technology}.
+\newblock {\em {Master of Science Thesis, Worcester Polytechnic Institute,
+  \url{http://www.wpi.edu/Pubs/ETD/Available/etd-0429103-152947/}}}, {April
+  2003}.
+
+\bibitem{jw-pollac}
+M.~Pollack.
+\newblock {Code Generation using Javadoc}.
+\newblock {\em JavaWorld,
+  \url{http://www.javaworld.com/javaworld/jw-08-2000/jw-0818-javadoc.html}},
+  August 2000.
+
+\bibitem{www.dotnet}
+J.~Prosise.
+\newblock {\em {Programming Microsoft .NET}}.
+\newblock Microsoft Press, 2002.
+
+\bibitem{aspect.interactions}
+M.~Suedholt R.~Douence, P.~Fradet.
+\newblock {Detection and Resolution of Aspect Interactions}.
+\newblock {\em {ACM SIGPLAN/SIGSOFT Proc. of GPCE}}, 2002.
+
+\bibitem{tango.04}
+{Tango Homepage}.
+\newblock {\em
+  {\url{http://www.st.informatik.tu-darmstadt.de/static/staff/Cepa/tango/index%
+.html}}}, 2004.
+
+\bibitem{www.gaast}
+{V. Cepa, M. Mezini}.
+\newblock {Language Support for Model-Driven Software Development}.
+\newblock {\em {To Appear in (Edior M. Aksit) Special Issue Science of Computer
+  Programming (Elsevier) on MDA: Foundations and Applications Model Driven
+  Architecture}}, 2004.
+
+\bibitem{vasian.adc.03}
+{.NET Attribute Dependency Checker Tool Homepage}.
+\newblock {\em
+  {\url{http://www.st.informatik.tu-darmstadt.de/static/staff/Cepa/tools/adc/i%
+ndex.html}}}, 2003.
+
+\bibitem{Taha.1997}
+{W. Taha, T. Sheard}.
+\newblock {Multi-stage Programming}.
+\newblock {\em {ACM SIG{\-}PLAN Notices}}, 32(8), 1997.
+
+\bibitem{www.java.meta}
+{JSR 175: A Metadata Facility for the Java Programming Language}.
+\newblock {\em { \url{http://www.jcp.org/en/jsr/detail?id=175}}}, 2003.
+
+\bibitem{www.xDoclet}
+{xDoxclet Code Generation Engine}.
+\newblock {\em {\url{http://xdoclet.sourceforge.net/}}}, 2003.
+
+\bibitem{url.xpath}
+{XML Path Language (XPath)}.
+\newblock {\em {\url{http://www.w3.org/TR/xpath}}}, 1999.
+
+\end{thebibliography}

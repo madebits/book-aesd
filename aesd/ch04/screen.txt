@@ -1,0 +1,39 @@
+@src
+|- height
+|- width
++- form
+|  |- label
+|  |- firstDisplay
+|  |- nextButton
+|  |- backButton
+|  |- exitButton
+|  |- image
+|  |- textField
+|  |- command
+|  |- stringItem
+|  |- imageItem
+|  |- choiceGroup
++- textfield
+|  |- label
+|  |- string
+|  |- constraints
+|  |- maxSize
++- list
+|  |- label
+|  |- listType
+|  |- listElements
+|  |- listElementArray
+|  |- commandAction
++- command
+|  |- label
+|  |- addComand
+|  |- execute
++- alert
+   |- alertTimeout
+   |- alertNextScreen
+   |- alertType
+   |- alertImage
+   |- alertText
+
+
+

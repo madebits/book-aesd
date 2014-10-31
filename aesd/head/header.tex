@@ -1,0 +1,86 @@
+%\documentclass[12pt,leqno]{book}
+
+%change this to create a oneside or twoside layout book
+\newcommand{\fside}{twoside}
+
+% we use scrbook here as it is more flexible than book and has nice headers without fancyhdr
+\documentclass[11pt,a4paper,\fside,smallheadings,%
+    headinclude,headsepline,pointlessnumbers,bibtotoc,idxtotoc,titlepage,%
+    nochapterprefix]{scrbook}
+
+%\usepackage[left=2cm,top=2cm,bottom=2cm]{geometry} % we do not use geometry here
+\usepackage{url} % nice print urls
+\usepackage{graphicx}
+\usepackage{hyperref} % For creating hyperlinks in cross references
+\usepackage{times} % I do not remember why I used this, but it is required
+\usepackage{subfigure} % this is used only once in chapter 4
+\usepackage{color} % for producing the nice chapter numbers, used in msectionfont
+%\usepackage{fancyhdr} % no use here
+%\pagestyle{fancy} % not needed here
+\usepackage{msectionfont} % for nice chapter titles and section titles font
+
+\usepackage{enumerate} % for nice enumerations
+\usepackage{pifont} % for dingsign symbol
+\usepackage{listings} % for code listings, we also use a single verbatim in chap 5
+
+\usepackage{xy} % for a figure in start of chapter 2
+\input xy
+\xyoption {all} 
+
+\usepackage{colortbl} % used for table colors
+
+\parindent 1cm
+\parskip 0.2cm
+%\topmargin 0.2cm
+%\oddsidemargin 1cm
+%\evensidemargin 0.5cm
+%\textwidth 15cm
+%\textheight 21cm
+
+% commands
+
+% these are used to denote UML stereotypes
+\newcommand{\flqq}{\ifmmode \ll \else \leavevmode
+	\raise 0.2ex \hbox{$\scriptscriptstyle \ll $}\fi }
+\newcommand{\frqq}{\ifmmode \gg \else \leavevmode
+	\raise 0.2ex \hbox{$\scriptscriptstyle \gg $}\fi }
+
+% small head font
+\renewcommand{\headfont}{\sffamily \small}
+
+% used rarely
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{principle}{Principle}[section]
+\newtheorem{definition}{Definition}[section]
+
+% I wanted to use this, but it not used any more
+%\newcommand{\emptypage}{\newpage \vspace{5cm}\begin{center}[This page is intentionally left blank.]\end{center} \newpage }
+
+% nice quotes
+\newcommand{\mquote}[2]{\begin{flushright}\parbox{0.45\textwidth}{ \raggedright \noindent{\small\em #1}\newline\rule{0.45\textwidth}{0.2mm} \noindent{\footnotesize #2}}\end{flushright}} 
+
+\newcommand{\see}[1]{(\S\ref{#1})} % see section~
+\newcommand{\seec}[1]{(\S\ref{#1})} % see chapter~
+\newcommand{\seecc}[2]{(\S\ref{#1}, \S\ref{#2})}
+\newcommand{\fig}[1]{Figure~\ref{#1}}
+
+\newcommand{\sr}[1]{section~\S\ref{#1}} % section~
+\newcommand{\Sr}[1]{Section~\S\ref{#1}} % Section~
+\newcommand{\srs}[2]{sections~\S\ref{#1} and \S\ref{#2}} % sections~\ref{#1} and~\ref{#2}
+\newcommand{\kr}[1]{chapter~\S\ref{#1}} % chapter~ - \cr is defined
+\newcommand{\Kr}[1]{Chapter~\S\ref{#1}} % Chapter~
+\newcommand{\apr}[1]{appendix~\S\ref{#1}} % appendix~ - \ar is defined
+
+% clear head style on empty pages www.ce.cmu.edu/~kijoo/thesis.html
+\makeatletter
+\def\cleardoublepage{\clearpage\if@twoside \ifodd\c@page\else%
+\hbox{}%
+\thispagestyle{empty}%
+\newpage%
+\if@twocolumn\hbox{}\newpage\fi\fi\fi}
+\makeatother
+
+%suppress date in title   
+\date{ }
+% there is no index here anyway
+\makeindex 
