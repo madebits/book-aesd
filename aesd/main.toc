@@ -1,0 +1,100 @@
+\contentsline {chapter}{Acknowledgments}{xi}{chapter*.4}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Mobile Software in a Ubiquitous Computing World}{2}{section.1.1}
+\contentsline {section}{\numberline {1.2}Automating Mobile Software Development}{5}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Programming Models for Mobile Software}{6}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Variation Mechanisms for Mobile Application Product-Lines}{8}{subsection.1.2.2}
+\contentsline {section}{\numberline {1.3}Attribute Enabled Software Development}{9}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Mobile Containers}{9}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}Lightweight Domain-Specific Abstractions}{11}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}Attribute-Driven Transformations}{13}{subsection.1.3.3}
+\contentsline {section}{\numberline {1.4}Contributions of this Book}{16}{section.1.4}
+\contentsline {section}{\numberline {1.5}The Structure of the Book}{17}{section.1.5}
+\contentsline {chapter}{\numberline {2}Organizing Mobile Product-Lines with Mobile Containers}{19}{chapter.2}
+\contentsline {section}{\numberline {2.1}Reusability with Product-Lines}{20}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Two Views of Product-Line Development}{21}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Variation Mechanisms for Mobile Product-Lines}{22}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Object-Oriented Libraries and Frameworks}{24}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Visual Domain-Specific Modeling}{25}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {2.1.5}Domain-Specific Modeling with Language Abstractions}{30}{subsection.2.1.5}
+\contentsline {section}{\numberline {2.2}Software Containers}{32}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Microsoft COM+}{33}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Java EE and Enterprise Java Beans}{35}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Using Containers Beyond the Enterprise Domain}{37}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Mobile Containers}{40}{subsection.2.2.4}
+\contentsline {section}{\numberline {2.3}Container Implementation Techniques}{41}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Non-Invasive Container Implementation Techniques}{42}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Invasive Implementation Techniques}{47}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Non-Invasive versus Invasive Techniques}{50}{subsection.2.3.3}
+\contentsline {section}{\numberline {2.4}Aspect-Oriented Programming and Product-Lines}{52}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Introduction to AOP Techniques}{53}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}AOP as a Generic Invasive Transformation Technique}{56}{subsection.2.4.2}
+\contentsline {section}{\numberline {2.5}Chapter Summary}{57}{section.2.5}
+\contentsline {chapter}{\numberline {3}Attribute Enabled Software Development}{59}{chapter.3}
+\contentsline {section}{\numberline {3.1}Supporting DSA with Attributes}{60}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Supporting Domain Variability with Attribute Families}{62}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Attribute Parameters}{65}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}Connecting Attribute DSA with Product-Line Assets}{66}{subsection.3.1.3}
+\contentsline {section}{\numberline {3.2}Advantages of Attribute Programming}{67}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Mapping Marked PIMs to Marking Interfaces}{71}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Mapping Marked PIMs to Pseudo-Syntactic Elements}{73}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Mapping Marked PIMs to Attribute-Enabled Languages}{75}{subsection.3.2.3}
+\contentsline {section}{\numberline {3.3}Representing Explicit Attributes in {UML}}{78}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}UML Alternatives for Explicit Attributes}{80}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Discussion of the UML Alternatives}{85}{subsection.3.3.2}
+\contentsline {section}{\numberline {3.4}Languages with Generalized and Annotated Abstract Syntax Trees}{86}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Attribute Language Support Example: .NET Languages}{86}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}GAAST-Based Language Technology}{87}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}Implementing GAAST on Top of .NET}{92}{subsection.3.4.3}
+\contentsline {section}{\numberline {3.5}Comparison to other DSL Approaches}{94}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}GAAST Languages and Extensible Grammars}{96}{subsection.3.5.1}
+\contentsline {subsection}{\numberline {3.5.2}Meta-Programming Approaches}{98}{subsection.3.5.2}
+\contentsline {subsection}{\numberline {3.5.3}AOP and DSA}{100}{subsection.3.5.3}
+\contentsline {section}{\numberline {3.6}Proper Usage of Explicit Attributes}{103}{section.3.6}
+\contentsline {subsection}{\numberline {3.6.1}When to Annotate?}{103}{subsection.3.6.1}
+\contentsline {subsection}{\numberline {3.6.2}What can be Annotated?}{105}{subsection.3.6.2}
+\contentsline {section}{\numberline {3.7}Chapter Summary}{106}{section.3.7}
+\contentsline {chapter}{\numberline {4}Building Modular Attribute-Driven Transformers}{109}{chapter.4}
+\contentsline {section}{\numberline {4.1}Attribute-Driven Transformations}{110}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}AST Representation}{111}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Class Transformations}{113}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Mapping Transformation Logic to Attribute Families}{115}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Controlling Composition Semantics with Inner Tags}{115}{subsection.4.1.4}
+\contentsline {subsection}{\numberline {4.1.5}The Transformation Workflow}{117}{subsection.4.1.5}
+\contentsline {subsection}{\numberline {4.1.6}Layering the Transformation Strategy}{119}{subsection.4.1.6}
+\contentsline {subsection}{\numberline {4.1.7}Code-Snippet Templates}{124}{subsection.4.1.7}
+\contentsline {subsection}{\numberline {4.1.8}Termination}{125}{subsection.4.1.8}
+\contentsline {subsection}{\numberline {4.1.9}Transformation Traceability}{126}{subsection.4.1.9}
+\contentsline {section}{\numberline {4.2}Automating Attribute Transformation Concerns}{127}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Expressing Cross-Cutting Concerns with Meta-Attributes}{129}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}The Attribute Dependency Model}{131}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}The \texttt {[DependencyAttribute]} Class}{132}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}The Attribute Dependency Checker (ADC) Tool}{134}{subsection.4.2.4}
+\contentsline {section}{\numberline {4.3}Related Work}{138}{section.4.3}
+\contentsline {section}{\numberline {4.4}Chapter Summary}{142}{section.4.4}
+\contentsline {chapter}{\numberline {5}MobCon: A Generative \hyphenation {Middleware} Middleware Framework for J2ME}{145}{chapter.5}
+\contentsline {section}{\numberline {5.1}Automating Cross-Cutting Concerns of J2ME MIDP Applications}{146}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}The Domain: Automating J2ME MIDP Applications}{148}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}A GAAST-like Representation for MIDP}{150}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}Modeling MIDP Attribute Families}{151}{subsection.5.1.3}
+\contentsline {subsection}{\numberline {5.1.4}The MobCon Transformation Engine}{152}{subsection.5.1.4}
+\contentsline {subsection}{\numberline {5.1.5}The Mobile Container Architecture}{153}{subsection.5.1.5}
+\contentsline {section}{\numberline {5.2}MIDP Programming with MobCon}{156}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Data Persistence}{156}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Screen Management}{160}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Session and Context Management}{162}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}Image Adaptation}{163}{subsection.5.2.4}
+\contentsline {subsection}{\numberline {5.2.5}Data Encryption}{164}{subsection.5.2.5}
+\contentsline {subsection}{\numberline {5.2.6}Network Communication}{165}{subsection.5.2.6}
+\contentsline {subsection}{\numberline {5.2.7}Traceability}{165}{subsection.5.2.7}
+\contentsline {subsection}{\numberline {5.2.8}Case-Study: The \textit {MobRay} Application}{166}{subsection.5.2.8}
+\contentsline {section}{\numberline {5.3}Extending the MobCon Framework}{167}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Workflow and Plug-in Metadata}{168}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}Transformation Details}{170}{subsection.5.3.2}
+\contentsline {section}{\numberline {5.4}Related Work}{171}{section.5.4}
+\contentsline {section}{\numberline {5.5}Chapter Summary}{173}{section.5.5}
+\contentsline {chapter}{\numberline {6}Summary and Outlook}{175}{chapter.6}
+\contentsline {section}{\numberline {6.1}Summary}{175}{section.6.1}
+\contentsline {section}{\numberline {6.2}Limitations and Outlook}{180}{section.6.2}
+\contentsline {chapter}{\numberline {A}MobCon Generated Code for \textit {"Hello World"} MIDP Example}{183}{appendix.A}
+\contentsline {chapter}{Bibliography}{185}{appendix*.5}

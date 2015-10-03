@@ -1,0 +1,1222 @@
+This is pdfeTeX, Version 3.141592-1.20a-rc7.2-2.2 (MiKTeX 2.4) (preloaded format=latex 2005.7.18)  18 MAR 2007 18:29
+entering extended mode
+**D:/thesis/new-thesis-book/main.tex
+(D:/thesis/new-thesis-book/main.tex
+LaTeX2e <2003/12/01>
+Babel <v3.8a> and hyphenation patterns for english, french, german, ngerman, dumylang, nohyphenation, loaded.
+\@input{head/header.aux}
+(head/header.tex (C:\texmf\tex\latex\koma-script\scrbook.cls
+Document Class: scrbook 2004/01/07 v2.9p LaTeX2e KOMA document class
+(C:\texmf\tex\latex\koma-script\scrlfile.sty
+Package: scrlfile 2004/01/07 v2.9p LaTeX2e KOMA package
+
+Package scrlfile, 2004/01/07 v2.9p LaTeX2e KOMA package
+                  Copyright (C) Markus Kohm
+
+) (C:\texmf\tex\latex\base\bk11.clo
+File: bk11.clo 2004/02/16 v1.4f Standard LaTeX file (size option)
+) (C:\texmf\tex\latex\koma-script\typearea.sty
+Package: typearea 2004/01/07 v2.9p LaTeX2e KOMA package
+
+Package typearea, 2004/01/07 v2.9p LaTeX2e KOMA package
+                  Copyright (C) Frank Neukam, 1992-1994
+                  Copyright (C) Markus Kohm, 1994-2002
+
+\ta@bcor=\skip41
+\ta@div=\count79
+\ta@hblk=\skip42
+\ta@vblk=\skip43
+\ta@temp=\skip44
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 10
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 418.25555pt
+(typearea)              DIV-departure   = -6/100
+(typearea)              \evensidemargin = 47.2316pt
+(typearea)              \oddsidemargin  = -12.5192pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 555.00024pt
+(typearea)              \topmargin      = 12.2347pt
+(typearea)              \headheight     = 17.0pt
+(typearea)              \headsep        = 20.40001pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 47.60002pt
+(typearea)              \baselineskip   = 13.6pt
+(typearea)              on input line 625.
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip45
+\belowcaptionskip=\skip46
+\c@pti@nb@sid@b@x=\box26
+\bibindent=\dimen102
+) (C:\texmf\tex\latex\ltxmisc\url.sty
+\Urlmuskip=\muskip10
+Package: url 2004/03/15  ver 3.1  Verb mode for urls, etc.
+) (C:\texmf\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\texmf\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+) (C:\texmf\tex\latex\graphics\graphics.sty
+Package: graphics 2001/07/07 v1.0n Standard LaTeX Graphics (DPC,SPQR)
+ (C:\texmf\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+) (C:\texmf\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2003/03/12 v1.1 MiKTeX 'graphics' configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 80.
+ (C:\texmf\tex\latex\graphics\pdftex.def
+File: pdftex.def 2002/06/19 v0.03k graphics/color for pdftex
+\Gread@gobject=\count89
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(C:\texmf\tex\latex\hyperref\hyperref.sty
+Package: hyperref 2003/11/30 v6.74m Hypertext links for LaTeX
+\@linkdim=\dimen105
+\Hy@linkcounter=\count90
+\Hy@pagecounter=\count91
+ (C:\texmf\tex\latex\hyperref\pd1enc.def
+File: pd1enc.def 2003/11/30 v6.74m Hyperref: PDFDocEncoding definition (HO)
+)
+(C:\texmf\tex\latex\00miktex\hyperref.cfg
+File: hyperref.cfg 2003/03/08 v1.0 MiKTeX 'hyperref' configuration
+)
+Package hyperref Info: Hyper figures OFF on input line 1880.
+Package hyperref Info: Link nesting OFF on input line 1885.
+Package hyperref Info: Hyper index ON on input line 1888.
+Package hyperref Info: Plain pages ON on input line 1893.
+Package hyperref Info: Backreferencing OFF on input line 1900.
+
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 2004.
+LaTeX Info: Redefining \url on input line 2143.
+\Fld@menulength=\count92
+\Field@Width=\dimen106
+\Fld@charsize=\dimen107
+\Choice@toks=\toks15
+\Field@toks=\toks16
+Package hyperref Info: Hyper figures OFF on input line 2618.
+Package hyperref Info: Link nesting OFF on input line 2623.
+Package hyperref Info: Hyper index ON on input line 2626.
+Package hyperref Info: backreferencing OFF on input line 2633.
+Package hyperref Info: Link coloring OFF on input line 2638.
+\c@Item=\count93
+\c@Hfootnote=\count94
+)
+*hyperref using default driver hpdftex*
+(C:\texmf\tex\latex\hyperref\hpdftex.def
+File: hpdftex.def 2003/11/30 v6.74m Hyperref driver for pdfTeX
+ (C:\texmf\tex\latex\psnfss\pifont.sty
+Package: pifont 2004/01/26 PSNFSS-v9.1b Pi font support (SPQR) 
+LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
+ (C:\texmf\tex\latex\psnfss\upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Try loading font information for U+psy on input line 64.
+
+(C:\texmf\tex\latex\psnfss\upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+\Fld@listcount=\count95
+\@outlinefile=\write3
+) (C:\texmf\tex\latex\psnfss\times.sty
+Package: times 2004/01/26 PSNFSS-v9.1b (SPQR) 
+) (C:\texmf\tex\latex\subfigure\subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip47
+\subfigcapskip=\skip48
+\subfigcaptopadj=\dimen108
+\subfigbottomskip=\skip49
+\subfigcapmargin=\dimen109
+\subfiglabelskip=\skip50
+\c@subfigure=\count96
+\c@lofdepth=\count97
+\c@subtable=\count98
+\c@lotdepth=\count99
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(C:\texmf\tex\latex\subfigure\subfigure.cfg)
+\subfig@top=\skip51
+\subfig@bottom=\skip52
+) (C:\texmf\tex\latex\graphics\color.sty
+Package: color 1999/02/16 v1.0i Standard LaTeX Color (DPC)
+
+(C:\texmf\tex\latex\00miktex\color.cfg
+File: color.cfg 2003/03/08 v1.0 MiKTeX 'color' configuration
+)
+Package color Info: Driver file: pdftex.def on input line 125.
+) (msectionfont.sty
+Package: msectionfont 2002/06/16 LaTeX extension
+ (C:\texmf\tex\latex\caption\caption.sty
+Package: caption 2005/06/28 v3.0g Customising captions (AS)
+
+(C:\texmf\tex\latex\caption\caption3.sty
+Package: caption3 2005/06/11 v3.0f caption3 kernel (AS)
+\captionmargin=\dimen110
+\captionwidth=\dimen111
+\captionindent=\dimen112
+\captionparindent=\dimen113
+\captionhangindent=\dimen114
+)
+Package caption Info: hyperref package v6.74m (or newer) detected on input line 260.
+)) (C:\texmf\tex\latex\tools\enumerate.sty
+Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+\@enLab=\toks17
+)
+(C:\texmf\tex\latex\listings\listings.sty
+\lst@mode=\count100
+\lst@gtempboxa=\box27
+\lst@token=\toks18
+\lst@length=\count101
+\lst@currlwidth=\dimen115
+\lst@column=\count102
+\lst@pos=\count103
+\lst@lostspace=\dimen116
+\lst@width=\dimen117
+\lst@newlines=\count104
+\lst@lineno=\count105
+\c@lstlisting=\count106
+\lst@maxwidth=\dimen118
+ (C:\texmf\tex\latex\listings\lstpatch.sty
+File: lstpatch.sty 2004/09/07 1.3a (Carsten Heinz)
+)
+(C:\texmf\tex\latex\listings\lstmisc.sty
+File: lstmisc.sty 2004/09/07 1.3 (Carsten Heinz)
+\c@lstnumber=\count107
+\lst@skipnumbers=\count108
+\lst@framebox=\box28
+) (C:\texmf\tex\latex\listings\listings.cfg
+File: listings.cfg 2004/09/05 1.3 listings configuration
+))
+Package: listings 2004/09/07 1.3a (Carsten Heinz)
+ (C:\texmf\tex\generic\xypic\xy.sty (C:\texmf\tex\generic\xypic\xy.tex Bootstrap'ing: catcodes, docmode, (C:\texmf\tex\g
+eneric\xypic\xyrecat.tex)
+(C:\texmf\tex\generic\xypic\xyidioms.tex)
+
+ Xy-pic version 3.7 <1999/02/16>
+ Copyright (c) 1991-1998 by Kristoffer H. Rose <krisrose@ens-lyon.fr>
+ Xy-pic is free software: see the User's Guide for details.
+
+Loading kernel: messages; fonts; allocations: state,
+\X@c=\dimen119
+\Y@c=\dimen120
+\U@c=\dimen121
+\D@c=\dimen122
+\L@c=\dimen123
+\R@c=\dimen124
+\Edge@c=\toks19
+\X@p=\dimen125
+\Y@p=\dimen126
+\U@p=\dimen127
+\D@p=\dimen128
+\L@p=\dimen129
+\R@p=\dimen130
+\Edge@p=\toks20
+\X@origin=\dimen131
+\Y@origin=\dimen132
+\X@xbase=\dimen133
+\Y@xbase=\dimen134
+\X@ybase=\dimen135
+\Y@ybase=\dimen136
+\X@min=\dimen137
+\Y@min=\dimen138
+\X@max=\dimen139
+\Y@max=\dimen140
+\lastobjectbox@=\box29
+\zerodotbox@=\box30
+\almostz@=\dimen141
+ direction,
+\d@X=\dimen142
+\d@Y=\dimen143
+\K@=\count109
+\KK@=\count110
+\Direction=\count111
+\K@dXdY=\dimen144
+\K@dYdX=\dimen145
+\xyread@=\read1
+\xywrite@=\write4
+\csp@=\count112
+\quotPTK@=\dimen146
+ utility macros; pictures: \xy, positions,
+\swaptoks@@=\toks21
+\connectobjectbox@@=\box31
+ objects,
+\styletoks@=\toks22
+
+decorations; kernel objects: directionals, circles, text; options; algorithms: directions, edges, connections;
+ Xy-pic loaded)
+Package: xy 1999/02/16 Xy-pic version 3.7
+) (C:\texmf\tex\generic\xypic\xy.tex not reloaded) (C:\texmf\tex\generic\xypic\xyall.tex
+ Xy-pic option: All features v.3.3 (C:\texmf\tex\generic\xypic\xycurve.tex
+ Xy-pic option: Curve and Spline extension v.3.7 curve,
+\crv@cnt@=\count113
+\crvpts@=\toks23
+\splinebox@=\box32
+\splineval@=\dimen147
+\splinedepth@=\dimen148
+\splinetol@=\dimen149
+\splinelength@=\dimen150
+ circles,
+\L@=\dimen151
+ loaded) (C:\texmf\tex\generic\xypic\xyframe.tex
+ Xy-pic option: Frame and Bracket extension v.3.7 loaded) (C:\texmf\tex\generic\xypic\xycmtip.tex
+ Xy-pic option: Computer Modern tip extension v.3.3 (C:\texmf\tex\generic\xypic\xytips.tex
+ Xy-pic option: More Tips extension v.3.3 loaded) loaded) (C:\texmf\tex\generic\xypic\xyline.tex
+ Xy-pic option: Line styles extension v.3.6
+\xylinethick@=\dimen152
+ loaded) (C:\texmf\tex\generic\xypic\xyrotate.tex
+ Xy-pic option: Rotate and Scale extension v.3.3 loaded) (C:\texmf\tex\generic\xypic\xycolor.tex
+ Xy-pic option: Colour extension v.3.3 loaded) (C:\texmf\tex\generic\xypic\xymatrix.tex
+ Xy-pic option: Matrix feature v.3.4
+\Row=\count114
+\Col=\count115
+\queue@=\toks24
+\queue@@=\toks25
+\qcount@=\count116
+\qcount@@=\count117
+\matrixsize@=\count118
+ loaded) (C:\texmf\tex\generic\xypic\xyarrow.tex
+ Xy-pic option: Arrow and Path feature v.3.5 path, \ar, loaded) (C:\texmf\tex\generic\xypic\xygraph.tex
+ Xy-pic option: Graph feature v.3.7 loaded) loaded) (C:\texmf\tex\latex\carlisle\colortbl.sty
+Package: colortbl 2001/02/13 v0.1j Color table columns (DPC)
+
+(C:\texmf\tex\latex\tools\array.sty
+Package: array 2003/12/17 v2.4a Tabular extension package (FMi)
+\col@sep=\dimen153
+\extrarowheight=\dimen154
+\NC@list=\toks26
+\extratabsurround=\skip53
+\backup@length=\skip54
+)
+\everycr=\toks27
+\minrowclearance=\skip55
+)
+\c@theorem=\count119
+\c@principle=\count120
+\c@definition=\count121
+\@indexfile=\write5
+
+Writing index file main.idx
+) (main.aux (head/title.aux) (preface/preface.aux) (ch01/ch01.aux) (ch02/ch02.aux) (ch03/ch03.aux) (ch04/ch04.aux)
+(ch05/ch05.aux) (ch06/ch06.aux) (ch05/code.aux))
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 2.
+ (C:\texmf\tex\latex\psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(C:\texmf\tex\context\base\supp-pdf.tex (C:\texmf\tex\context\base\supp-mis.tex
+loading : Context Support Macros / Miscellaneous 
+\protectiondepth=\count122
+\scratchcounter=\count123
+\scratchtoks=\toks28
+\scratchdimen=\dimen155
+\scratchskip=\skip56
+\scratchmuskip=\muskip11
+\scratchbox=\box33
+\scratchread=\read2
+\scratchwrite=\write6
+\zeropoint=\dimen156
+\onepoint=\dimen157
+\onebasepoint=\dimen158
+\minusone=\count124
+\thousandpoint=\dimen159
+\onerealpoint=\dimen160
+\emptytoks=\toks29
+\nextbox=\box34
+\nextdepth=\dimen161
+\everyline=\toks30
+\!!counta=\count125
+\!!countb=\count126
+\recursecounter=\count127
+)
+loading : Context Support Macros / PDF (2004.03.26)
+\nofMPsegments=\count128
+\nofMParguments=\count129
+\everyMPtoPDFconversion=\toks31
+)
+Package hyperref Info: Link coloring OFF on input line 2.
+ (C:\texmf\tex\latex\hyperref\nameref.sty
+Package: nameref 2003/12/03 v2.21 Cross-referencing by name of section
+\c@section@level=\count130
+)
+LaTeX Info: Redefining \ref on input line 2.
+LaTeX Info: Redefining \pageref on input line 2.
+ (main.out) (main.out) (C:\texmf\tex\latex\ms\ragged2e.sty
+Package: ragged2e 2003/03/25 v2.04 ragged2e Package (MS)
+
+(C:\texmf\tex\latex\ms\everysel.sty
+Package: everysel 1999/06/08 v1.03 EverySelectfont Package (MS)
+LaTeX Info: Redefining \selectfont on input line 125.
+)
+\CenteringLeftskip=\skip57
+\RaggedLeftLeftskip=\skip58
+\RaggedRightLeftskip=\skip59
+\CenteringRightskip=\skip60
+\RaggedLeftRightskip=\skip61
+\RaggedRightRightskip=\skip62
+\CenteringParfillskip=\skip63
+\RaggedLeftParfillskip=\skip64
+\RaggedRightParfillskip=\skip65
+\JustifyingParfillskip=\skip66
+\CenteringParindent=\skip67
+\RaggedLeftParindent=\skip68
+\RaggedRightParindent=\skip69
+\JustifyingParindent=\skip70
+)
+Package caption Info: listings package v1.2 (or newer) detected on input line 2.
+ (head/title.tex
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 16.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20.74> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 16.
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 16.
+ (C:\texmf\tex\latex\base\t1cmss.fd
+File: t1cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+
+LaTeX Font Warning: Font shape `T1/cmss/bc/n' undefined
+(Font)              using `T1/cmss/m/n' instead on input line 16.
+
+[1
+
+
+
+
+
+{sfonts.map}] [2
+
+])
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 13.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 13.
+ (C:\texmf\tex\latex\psnfss\ot1phv.fd
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <24.88> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 13.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/c/n' undefined
+(Font)              using `OT1/cmss/m/n' instead on input line 13.
+
+(main.toc
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 3.
+
+! pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \penalty 
+l.27 ...entation Techniques}{47}{subsection.2.3.2}
+                                                   [1
+
+
+]
+! pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \penalty 
+l.66 ...{4.1.8}Termination}{125}{subsection.4.1.8}
+                                                   [2]
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 71.
+ (C:\texmf\tex\latex\psnfss\ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <10.95> not available
+(Font)              Font shape `OT1/phv/b/it' tried instead on input line 99.
+LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <10.95> not available
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 99.
+)
+\tf@toc=\write7
+ [3] [4
+
+] (main.lof [5]
+[6])
+\tf@lof=\write8
+ [7] [8
+
+] (main.lot)
+\tf@lot=\write9
+ [9] (preface/preface.tex [10
+
+
+]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 10.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 13.
+ (C:\texmf\tex\latex\psnfss\omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 13.
+ [11]) [12] (ch01/ch01.tex
+Chapter 1.
+! pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \penalty 
+l.15 
+      [1
+
+
+
+
+]
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 21.
+
+! pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \penalty 
+l.28 
+      [2] <ch01/pm.pdf, id=847, 296.10625pt x 166.6225pt>
+File: ch01/pm.pdf Graphic file (type pdf)
+ <use ch01/pm.pdf>
+! pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \penalty 
+l.51 
+      [3 <ch01/pm.pdf>]
+! pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \penalty 
+l.62 
+      [4] <ch01/mobiledomain.pdf, id=878, 302.12875pt x 251.94125pt>
+File: ch01/mobiledomain.pdf Graphic file (type pdf)
+ <use ch01/mobiledomain.pdf>
+Overfull \hbox (10.04744pt too wide) in paragraph at lines 83--84
+\OT1/ptm/m/n/10.95 J2ME Mo-bile In-for-ma-tion De-vice Pro-file (MIDP) [[]] and .NET Com-pact Frame-work [[]].
+ []
+
+! pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has been already used, duplicate ignored
+<to be read again> 
+                   \penalty 
+l.84 
+      [5]
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 85.
+ <ch02/pm.pdf, id=906, 235.88126pt x 277.035pt>
+File: ch02/pm.pdf Graphic file (type pdf)
+ <use ch02/pm.pdf>
+! pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has been already used, duplicate ignored
+<to be read again> 
+                   \penalty 
+l.99 
+      [6 <ch01/mobiledomain.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+! pdfTeX warning (ext4): destination with the same identifier (name{page.7}) has been already used, duplicate ignored
+<to be read again> 
+                   \penalty 
+l.101 
+       [7 <ch02/pm.pdf>]
+! pdfTeX warning (ext4): destination with the same identifier (name{page.8}) has been already used, duplicate ignored
+<to be read again> 
+                   \penalty 
+l.126 
+       [8]
+Overfull \hbox (3.63196pt too wide) in paragraph at lines 129--130
+\OT1/ptm/m/n/10.95 This book in-tro-duces vari-a-tion mech-a-nism that ful-fills the re-quire-ments posed for mo-bile pr
+oduct-
+ []
+
+! pdfTeX warning (ext4): destination with the same identifier (name{page.9}) has been already used, duplicate ignored
+<to be read again> 
+                   \penalty 
+l.136 
+       [9] <ch01/mobc.pdf, id=981, 268.00125pt x 294.09875pt>
+File: ch01/mobc.pdf Graphic file (type pdf)
+ <use ch01/mobc.pdf>
+! pdfTeX warning (ext4): destination with the same identifier (name{page.10}) has been already used, duplicate ignored
+<to be read again> 
+                   \penalty 
+l.148 
+       [10 <ch01/mobc.pdf>]
+! pdfTeX warning (ext4): destination with the same identifier (name{page.11}) has been already used, duplicate ignored
+<to be read again> 
+                   \penalty 
+l.156 
+       [11] <ch01/dsaserv.pdf, id=1022, 416.55624pt x 126.4725pt>
+File: ch01/dsaserv.pdf Graphic file (type pdf)
+ <use ch01/dsaserv.pdf>
+! pdfTeX warning (ext4): destination with the same identifier (name{page.12}) has been already used, duplicate ignored
+<to be read again> 
+                   \penalty 
+l.179 
+       [12 <ch01/dsaserv.pdf>] <ch01/tango.pdf, id=1049, 471.7625pt x 334.24875pt>
+File: ch01/tango.pdf Graphic file (type pdf)
+ <use ch01/tango.pdf>
+Overfull \hbox (8.53578pt too wide) in paragraph at lines 190--191
+ [] 
+ []
+
+[13]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14 <ch01/tango.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15] [16]
+Overfull \hbox (0.65355pt too wide) in paragraph at lines 236--237
+\OT1/ptm/m/n/10.95 former can be ad-dressed declar-a-tive by ex-press-ing them as meta-attributes. Meta-attributes
+ []
+
+[17]
+Overfull \hbox (1.00893pt too wide) in paragraph at lines 258--259
+[]\OT1/ptm/m/n/10.95 Attribute-driven trans-for-ma-tions, and spe-cial-ized lan-guages to sup-port them, are the theme
+ []
+
+) [18] (ch02/ch02.tex
+Chapter 2.
+<xymatrix 2x3 196> [19
+
+
+
+] [20] <ch02/pl-cost.pdf, id=1169, 434.62375pt x 192.72pt>
+File: ch02/pl-cost.pdf Graphic file (type pdf)
+ <use ch02/pl-cost.pdf>
+<ch02/productline.pdf, id=1170, 398.48875pt x 110.4125pt>
+File: ch02/productline.pdf Graphic file (type pdf)
+ <use ch02/productline.pdf> [21 <ch02/pl-cost.pdf>] [22 <ch02/productline.pdf>]
+Overfull \hbox (1.10236pt too wide) in paragraph at lines 105--106
+\OT1/ptm/m/n/10.95 To sum-ma-rize, the vari-a-tion mech-a-nisms (VMs) for product-lines for mo-bile ap-pli-ca-tions shou
+ld: 
+ []
+
+[23]
+Overfull \hbox (4.05275pt too wide) in paragraph at lines 126--127
+[]\OT1/ptm/m/n/10.95 Frameworks per-form bet-ter than OO li-braries, when used to or-ga-nize product-lines. Frame-
+ []
+
+[24] [25] <ch02/mda.pdf, id=1266, 451.6875pt x 213.79875pt>
+File: ch02/mda.pdf Graphic file (type pdf)
+ <use ch02/mda.pdf>
+Underfull \vbox (badness 1052) has occurred while \output is active []
+
+ [26 <ch02/mda.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [27]
+Overfull \hbox (5.09775pt too wide) in paragraph at lines 163--164
+[]\OT1/ptm/m/n/10.95 Another ex-am-ple of a CASE tool is the Generic Mod-el-ing En-vi-ron-ment (GME) [[]].
+ []
+
+
+Underfull \vbox (badness 2277) has occurred while \output is active []
+
+ [28]
+Underfull \vbox (badness 1348) has occurred while \output is active []
+
+ [29] (C:\texmf\tex\latex\listings\lstlang1.sty
+File: lstlang1.sty 2004/09/05 1.3 listings language file
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 195.
+
+[30] [31] [32] [33]
+Underfull \vbox (badness 1769) has occurred while \output is active []
+
+ [34] [35] [36]
+<ch02/container.pdf, id=1499, 415.5525pt x 206.7725pt>
+File: ch02/container.pdf Graphic file (type pdf)
+ <use ch02/container.pdf> [37]
+<ch02/extended-pl.pdf, id=1519, 174.6525pt x 115.43124pt>
+File: ch02/extended-pl.pdf Graphic file (type pdf)
+ <use ch02/extended-pl.pdf> [38 <ch02/container.pdf> <ch02/extended-pl.pdf>] [39] [40] <ch02/ioc.pdf, id=1576, 394.47375
+pt x 212.795pt>
+File: ch02/ioc.pdf Graphic file (type pdf)
+ <use ch02/ioc.pdf> [41]
+Overfull \hbox (2.18634pt too wide) in paragraph at lines 383--384
+\OT1/ptm/m/n/10.95 Non-invasive con-tainer im-ple-men-ta-tion tech-niques are based on pure object-oriented (OO) mech-
+ []
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 393.
+
+Overfull \hbox (2.95407pt too wide) in paragraph at lines 398--400
+[][][][][][][][][][][][][][][][][][] 
+ []
+
+[42 <ch02/ioc.pdf>]
+Overfull \hbox (28.1707pt too wide) in paragraph at lines 455--456
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[43] [44] [45]
+Overfull \hbox (23.37065pt too wide) in paragraph at lines 509--510
+[][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[46] [47] [48]
+LaTeX Font Info:    Try loading font information for OML+ptm on input line 559.
+ (C:\texmf\tex\latex\psnfss\omlptm.fd
+File: omlptm.fd 
+)
+LaTeX Font Info:    Font shape `OML/ptm/m/n' in size <8> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 559.
+LaTeX Font Info:    Font shape `OML/ptm/m/it' in size <8> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 560.
+ [49] [50] [51] [52]
+<ch02/aop.pdf, id=1828, 397.485pt x 198.7425pt>
+File: ch02/aop.pdf Graphic file (type pdf)
+ <use ch02/aop.pdf> [53 <ch02/aop.pdf>] [54]
+Underfull \hbox (badness 4168) in paragraph at lines 677--677
+[][][]\OT1/ptm/m/n/9 This is anal-o-gous to the dif-fer-ence be-tween DOM and SAX parser mod-els for XML doc-u-ments
+ []
+
+[55] [56] [57]) [58] (ch03/ch03.tex
+Chapter 3.
+[59
+
+
+
+] <xymatrix 2x3 230> <ch03/mof-uml-tag.pdf, id=1937, 380.42125pt x 249.93375pt>
+File: ch03/mof-uml-tag.pdf Graphic file (type pdf)
+ <use ch03/mof-uml-tag.pdf> [60]
+[61 <ch03/mof-uml-tag.pdf>] <ch03/foda.pdf, id=2001, 296.10625pt x 105.39375pt>
+File: ch03/foda.pdf Graphic file (type pdf)
+ <use ch03/foda.pdf> [62]
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 164.
+ [63 <ch03/foda.pdf>] [64] [65] <ch02/inject.pdf, id=2136, 266.9975pt x 115.43124pt>
+File: ch02/inject.pdf Graphic file (type pdf)
+ <use ch02/inject.pdf> [66 <ch02/inject.pdf>]
+[67] <ch03/uml1.pdf, id=2162, 336.25626pt x 120.45pt>
+File: ch03/uml1.pdf Graphic file (type pdf)
+ <use ch03/uml1.pdf>
+<ch03/mda-model-orig.pdf, id=2163, 195.73125pt x 188.705pt>
+File: ch03/mda-model-orig.pdf Graphic file (type pdf)
+ <use ch03/mda-model-orig.pdf> [68 <ch03/uml1.pdf>] [69 <ch03/mda-model-orig.pdf>]
+Overfull \hbox (2.7803pt too wide) in paragraph at lines 265--266
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (7.58035pt too wide) in paragraph at lines 268--269
+[][][][][][][][][][][][][][][][][][][] 
+ []
+
+[70] <ch03/uml2.pdf, id=2223, 379.4175pt x 194.7275pt>
+File: ch03/uml2.pdf Graphic file (type pdf)
+ <use ch03/uml2.pdf> [71 <ch03/uml2.pdf>] [72]
+Overfull \hbox (41.1807pt too wide) in paragraph at lines 331--332
+[][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (41.1807pt too wide) in paragraph at lines 333--334
+[][][][][][][][][][][] 
+ []
+
+[73] [74] <ch03/mda-model2.pdf, id=2300, 224.84pt x 270.00874pt>
+File: ch03/mda-model2.pdf Graphic file (type pdf)
+ <use ch03/mda-model2.pdf>
+LaTeX Font Info:    Font shape `OMS/ptm/m/it' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 391.
+
+Overfull \hbox (41.1807pt too wide) in paragraph at lines 394--395
+[][][][][][][][][][][][][] 
+ []
+
+[75 <ch03/mda-model2.pdf>] [76]
+Overfull \hbox (0.97119pt too wide) in paragraph at lines 443--444
+\OT1/ptm/m/n/10.95 Attributes play an im-por-tant role in rep-re-sent-ing cus-tom design-related meta-data [[], [],
+ []
+
+[77]
+LaTeX Font Info:    Font shape `OMS/ptm/m/it' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 469.
+ [78]
+Overfull \hbox (1.12646pt too wide) in paragraph at lines 475--483
+\OT1/ptm/m/n/10.95 tribute may re-quire name and de-part-ment pa-ra-me-ters (e.g., \OT1/pcr/m/n/10.95 [Au-thor(Na-me=Va-
+sian,-
+ []
+
+[79] [80] <append1/properties.pdf, id=2391, 280.04625pt x 131.49126pt>
+File: append1/properties.pdf Graphic file (type pdf)
+ <use append1/properties.pdf>
+Overfull \hbox (0.19249pt too wide) in paragraph at lines 586--587
+[]\OT1/ptm/m/n/10.95 This is the first UML rep-re-sen-ta-tion pos-si-bil-ity that comes
+ []
+
+[81] <append1/stereotype.pdf, id=2425, 282.05376pt x 132.495pt>
+File: append1/stereotype.pdf Graphic file (type pdf)
+ <use append1/stereotype.pdf>
+<append1/template.pdf, id=2426, 332.24126pt x 143.53625pt>
+File: append1/template.pdf Graphic file (type pdf)
+ <use append1/template.pdf> [82 <append1/properties.pdf> <append1/stereotype.pdf>] <append1/box.pdf, id=2446, 277.035pt 
+x 177.66376pt>
+File: append1/box.pdf Graphic file (type pdf)
+ <use append1/box.pdf> [83 <append1/template.pdf> <append1/box.pdf>] <append1/class.pdf, id=2465, 492.84125pt x 131.4912
+6pt>
+File: append1/class.pdf Graphic file (type pdf)
+ <use append1/class.pdf>
+<append1/comment.pdf, id=2466, 465.74pt x 192.72pt>
+File: append1/comment.pdf Graphic file (type pdf)
+ <use append1/comment.pdf> [84 <append1/class.pdf> <append1/comment.pdf>] [85]
+Overfull \hbox (0.27632pt too wide) in paragraph at lines 715--715
+[]\OT1/phv/b/n/14.4 Languages with Gen-er-al-ized and An-no-tated Ab-stract Syn-
+ []
+
+<ch03/existing.pdf, id=2496, 291.0875pt x 105.39375pt>
+File: ch03/existing.pdf Graphic file (type pdf)
+ <use ch03/existing.pdf> [86 <ch03/existing.pdf>]
+<ch03/net-attribute-processing.pdf, id=2506, 479.7925pt x 241.90375pt>
+File: ch03/net-attribute-processing.pdf Graphic file (type pdf)
+ <use ch03/net-attribute-processing.pdf> [87]
+<ch03/gaast.pdf, id=2523, 396.48125pt x 319.1925pt>
+File: ch03/gaast.pdf Graphic file (type pdf)
+ <use ch03/gaast.pdf>
+<ch03/metadata.pdf, id=2524, 452.69125pt x 283.0575pt>
+File: ch03/metadata.pdf Graphic file (type pdf)
+ <use ch03/metadata.pdf> [88 <ch03/net-attribute-processing.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [89 <ch03/gaast.pdf>]
+<ch03/native.pdf, id=2550, 307.1475pt x 144.54pt>
+File: ch03/native.pdf Graphic file (type pdf)
+ <use ch03/native.pdf> [90 <ch03/metadata.pdf> <ch03/native.pdf>]
+[91] <ch03/third.pdf, id=2586, 292.09125pt x 169.63374pt>
+File: ch03/third.pdf Graphic file (type pdf)
+ <use ch03/third.pdf>
+Overfull \hbox (2.95407pt too wide) in paragraph at lines 844--845
+[][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (46.15451pt too wide) in paragraph at lines 872--873
+[][][][][][][][][][] 
+ []
+
+[92 <ch03/third.pdf>] [93] [94] [95] [96] [97] [98]
+Overfull \hbox (10.0539pt too wide) in paragraph at lines 1004--1005
+[]\OT1/ptm/m/n/10.95 GAAST-enabled lan-guages ad-dress only at-tribute trans-for-ma-tions. This means that GAAST-
+ []
+
+[99] [100] <ch03/xml.pdf, id=2803, 381.425pt x 137.51375pt>
+File: ch03/xml.pdf Graphic file (type pdf)
+ <use ch03/xml.pdf> [101] [102 <ch03/xml.pdf>] [103]
+Overfull \hbox (7.58035pt too wide) in paragraph at lines 1078--1080
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (93.98123pt too wide) in paragraph at lines 1084--1085
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Underfull \vbox (badness 4193) has occurred while \output is active []
+
+ [104] [105] [106]) [107] (ch04/ch04.tex [108
+
+
+
+]
+Chapter 4.
+[109] <xymatrix 2x3 196>
+Overfull \hbox (12.72556pt too wide) in paragraph at lines 29--30
+[]\OT1/ptm/m/n/10.95 Several gen-er-a-tive and graph trans-for-ma-tion tech-niques could be used to im-ple-ment attribut
+e-
+ []
+
+[110] <ch05/ct-ast2.pdf, id=2969, 381.425pt x 173.64874pt>
+File: ch05/ct-ast2.pdf Graphic file (type pdf)
+ <use ch05/ct-ast2.pdf>
+<ch05/method-body2.pdf, id=2970, 161.60374pt x 134.5025pt>
+File: ch05/method-body2.pdf Graphic file (type pdf)
+ <use ch05/method-body2.pdf> [111 <ch05/ct-ast2.pdf> <ch05/method-body2.pdf>] (C:\texmf\tex\latex\listings\lstlang1.sty
+File: lstlang1.sty 2004/09/05 1.3 listings language file
+) (C:\texmf\tex\latex\listings\lstmisc.sty
+File: lstmisc.sty 2004/09/07 1.3 (Carsten Heinz)
+)
+<ch04/tango.pdf, id=2990, 425.59pt x 194.7275pt>
+File: ch04/tango.pdf Graphic file (type pdf)
+ <use ch04/tango.pdf> [112 <ch04/tango.pdf>]
+<ch02/transgen.pdf, id=3019, 176.66pt x 115.43124pt>
+File: ch02/transgen.pdf Graphic file (type pdf)
+ <use ch02/transgen.pdf> [113 <ch02/transgen.pdf>] [114] [115]
+<ch04/it-node.pdf, id=3065, 203.76125pt x 143.53625pt>
+File: ch04/it-node.pdf Graphic file (type pdf)
+ <use ch04/it-node.pdf>
+<ch04/tcomp.pdf, id=3066, 410.53375pt x 132.495pt>
+File: ch04/tcomp.pdf Graphic file (type pdf)
+ <use ch04/tcomp.pdf> [116 <ch04/it-node.pdf>]
+Overfull \hbox (7.51515pt too wide) in paragraph at lines 179--180
+\OT1/ptm/m/n/10.95 oth-ers with the (in-ner) tags \OT1/pcr/m/n/10.95 prope-rty.both.$\OML/cmm/m/it/10.95 <$\OT1/pcr/m/n/
+10.95 field-Na-me$\OML/cmm/m/it/10.95 >$ \OT1/ptm/m/n/10.95 and \OT1/pcr/m/n/10.95 va-li-da-tion.$\OML/cmm/m/it/10.95 <$
+\OT1/pcr/m/n/10.95 field-
+ []
+
+[117 <ch04/tcomp.pdf>] <ch04/dependency.pdf, id=3094, 392.46625pt x 72.27pt>
+File: ch04/dependency.pdf Graphic file (type pdf)
+ <use ch04/dependency.pdf> [118 <ch04/dependency.pdf>] <ch04/layers.pdf, id=3108, 227.85126pt x 121.45375pt>
+File: ch04/layers.pdf Graphic file (type pdf)
+ <use ch04/layers.pdf> [119] [120 <ch04/layers.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [121] [122]
+Overfull \hbox (7.23282pt too wide) in paragraph at lines 296--297
+[][][][][][][][][][][][][] 
+ []
+
+[123]
+Overfull \hbox (2.98866pt too wide) in paragraph at lines 314--315
+\OT1/ptm/m/n/10.95 former im-ple-men-ta-tion via the con-cept of a \OT1/ptm/m/it/10.95 code snip-pet[][][]\OT1/ptm/m/n/1
+0.95 , which is sim-i-lar to Strat-ego's [[]]
+ []
+
+
+Overfull \hbox (7.75412pt too wide) in paragraph at lines 324--325
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (50.95456pt too wide) in paragraph at lines 325--326
+[][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (60.55466pt too wide) in paragraph at lines 326--327
+[][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (50.95456pt too wide) in paragraph at lines 329--330
+[][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[124] [125] <ch04/log.pdf, id=3273, 320.19624pt x 162.6075pt>
+File: ch04/log.pdf Graphic file (type pdf)
+ <use ch04/log.pdf> [126 <ch04/log.pdf>] [127]
+Underfull \hbox (badness 2126) in paragraph at lines 419--419
+\OT1/ptm/m/n/10.95 with two Inter-depended At-tributes
+ []
+
+LaTeX Font Info:    Font shape `OT1/pcr/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/pcr/b/n' tried instead on input line 430.
+[128]
+Overfull \hbox (16.13783pt too wide) in paragraph at lines 441--442
+[][][][][][][][][][][][][][][] 
+ []
+
+[129] [130]
+LaTeX Font Info:    Font shape `OT1/pcr/bx/n' in size <12> not available
+(Font)              Font shape `OT1/pcr/b/n' tried instead on input line 510.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [131] [132]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [133]
+<ch04b/implementation2.jpg, id=3436, 472.01344pt x 233.37187pt>
+File: ch04b/implementation2.jpg Graphic file (type jpg)
+ <use ch04b/implementation2.jpg>
+Overfull \hbox (2.43277pt too wide) in paragraph at lines 601--602
+[][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[134 <ch04b/implementation2.jpg>] <ch04b/seq-diag.jpg, id=3447, 661.47125pt x 604.2575pt>
+File: ch04b/seq-diag.jpg Graphic file (type jpg)
+ <use ch04b/seq-diag.jpg>
+Overfull \hbox (8.9705pt too wide) in paragraph at lines 635--636
+[][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Underfull \vbox (badness 2221) has occurred while \output is active []
+
+ [135] [136 <ch04b/seq-diag.jpg>] [137]
+Overfull \hbox (2.93344pt too wide) in paragraph at lines 683--684
+\OT1/ptm/m/n/10.95 is used over the \OT1/pcr/m/n/10.95 De-pende-ncyAttri-bute \OT1/ptm/m/n/10.95 prop-er-ties, to map th
+em to the in-ter-nal \OT1/pcr/m/n/10.95 ICon-
+ []
+
+[138] [139]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [140]
+Underfull \vbox (badness 2277) has occurred while \output is active []
+
+ [141])
+Underfull \vbox (badness 2245) has occurred while \output is active []
+
+ [142] [143] (ch05/ch05.tex [144
+
+
+
+]
+Chapter 5.
+
+Package hyperref Warning: Token not allowed in a PDFDocEncoded string,
+(hyperref)                removing `\hyphenation' on input line 1.
+
+<xymatrix 2x3 196> [145] [146] <ch02/java.pdf, id=3655, 425.59pt x 289.08pt>
+File: ch02/java.pdf Graphic file (type pdf)
+ <use ch02/java.pdf> [147 <ch02/java.pdf>]
+<ch02/midp.pdf, id=3701, 280.04625pt x 211.79124pt>
+File: ch02/midp.pdf Graphic file (type pdf)
+ <use ch02/midp.pdf> [148 <ch02/midp.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [149]
+<ch05/mobcon-gaast.pdf, id=3732, 455.7025pt x 72.27pt>
+File: ch05/mobcon-gaast.pdf Graphic file (type pdf)
+ <use ch05/mobcon-gaast.pdf> [150 <ch05/mobcon-gaast.pdf>]
+Overfull \hbox (4.08112pt too wide) in paragraph at lines 106--107
+\OT1/ptm/m/n/10.95 product-line do-main as-sets with attribute-based DSA. Mob-Con mod-els the generic non-functional
+ []
+
+[151]
+Overfull \hbox (1.66187pt too wide) in paragraph at lines 144--145
+\OT1/ptm/m/n/10.95 The \OT1/ptm/m/it/10.95 Mob-Con Trans-for-ma-tion En-gine \OT1/ptm/m/n/10.95 (MTE), il-lus-trated in 
+Fig-ure []5.5[], is de-signed to be a general-
+ []
+
+<ch05/mte.pdf, id=3770, 398.48875pt x 199.74625pt>
+File: ch05/mte.pdf Graphic file (type pdf)
+ <use ch05/mte.pdf> [152 <ch05/mte.pdf>]
+<ch05/mc.pdf, id=3788, 274.02374pt x 217.81375pt>
+File: ch05/mc.pdf Graphic file (type pdf)
+ <use ch05/mc.pdf>
+<ch05/mobcon.pdf, id=3789, 511.9125pt x 241.90375pt>
+File: ch05/mobcon.pdf Graphic file (type pdf)
+ <use ch05/mobcon.pdf>
+Overfull \hbox (8.53578pt too wide) in paragraph at lines 177--178
+ [] 
+ []
+
+[153] [154 <ch05/mc.pdf>]
+Overfull \hbox (8.84258pt too wide) in paragraph at lines 189--191
+[]\OT1/ptm/m/n/10.95 The MCSS part deals with the server-side cross-cutting con-cerns (CCCs) [[], []],
+ []
+
+
+Underfull \vbox (badness 1147) has occurred while \output is active []
+
+ [155 <ch05/mobcon.pdf>] [156]
+<ch05/dp.pdf, id=3849, 332.24126pt x 180.675pt>
+File: ch05/dp.pdf Graphic file (type pdf)
+ <use ch05/dp.pdf> [157 <ch05/dp.pdf>] [158]
+<ch05/dpremote.pdf, id=3910, 361.35pt x 206.7725pt>
+File: ch05/dpremote.pdf Graphic file (type pdf)
+ <use ch05/dpremote.pdf> [159 <ch05/dpremote.pdf>] [160]
+<ch05/hellosc1.jpg, id=3937, 151.3153pt x 179.16937pt>
+File: ch05/hellosc1.jpg Graphic file (type jpg)
+ <use ch05/hellosc1.jpg>
+Underfull \vbox (badness 4341) has occurred while \output is active []
+
+ [161 <ch05/hellosc1.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [162]
+Overfull \hbox (30.53798pt too wide) in paragraph at lines 403--404
+[][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (60.38089pt too wide) in paragraph at lines 428--429
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (31.5806pt too wide) in paragraph at lines 429--430
+[][][][][][][][][][][][][][][][][][][] 
+ []
+
+<ch05/mc-img.pdf, id=3984, 410.53375pt x 283.0575pt>
+File: ch05/mc-img.pdf Graphic file (type pdf)
+ <use ch05/mc-img.pdf> [163] [164 <ch05/mc-img.pdf>]
+<ch05/net.pdf, id=4028, 368.37625pt x 162.6075pt>
+File: ch05/net.pdf Graphic file (type pdf)
+ <use ch05/net.pdf>
+LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <12> not available
+(Font)              Font shape `OT1/phv/b/it' tried instead on input line 481.
+LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <12> not available
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 481.
+ [165]
+<ch05/mobray-struct.pdf, id=4042, 430.60875pt x 177.66376pt>
+File: ch05/mobray-struct.pdf Graphic file (type pdf)
+ <use ch05/mobray-struct.pdf> [166 <ch05/net.pdf> <ch05/mobray-struct.pdf>] <ch05/mobray1.jpg, id=4060, 148.30406pt x 17
+9.16937pt>
+File: ch05/mobray1.jpg Graphic file (type jpg)
+ <use ch05/mobray1.jpg> [167 <ch05/mobray1.jpg>]
+[168]
+Overfull \hbox (64.48587pt too wide) in paragraph at lines 603--604
+[][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (2.08524pt too wide) in paragraph at lines 607--608
+[][][][][][][][][][][][][][][] 
+ []
+
+[169]
+Overfull \hbox (3.47537pt too wide) in paragraph at lines 691--692
+[][][][][][][][][][][][][][][][][][] 
+ []
+
+[170] [171] [172] [173]) [174] (ch06/ch06.tex
+Chapter 6.
+<ch06/summary.pdf, id=4232, 332.24126pt x 176.66pt>
+File: ch06/summary.pdf Graphic file (type pdf)
+ <use ch06/summary.pdf>
+
+LaTeX Font Warning: Font shape `OMS/ptm/bx/n' undefined
+(Font)              using `OMS/ptm/m/n' instead
+(Font)              for symbol `textsection' on input line 21.
+
+[175
+
+
+
+]
+Overfull \hbox (3.94977pt too wide) in paragraph at lines 27--28
+[]\OT1/ptm/m/n/10.95 There are sev-eral vari-abil-ity mech-a-nisms for sup-port-ing product-lines. Declar-a-tive domain-
+
+ []
+
+[176 <ch06/summary.pdf>]
+LaTeX Font Info:    Font shape `OMS/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 37.
+ [177] [178] [179] [180]) [181] (ch05/code.tex [182
+
+
+
+]
+Appendix A.
+
+LaTeX Font Warning: Font shape `OT1/cmss/c/it' undefined
+(Font)              using `OT1/cmss/c/n' instead on input line 1.
+
+
+Overfull \hbox (117.2864pt too wide) in paragraph at lines 14--15
+[][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (30.88553pt too wide) in paragraph at lines 18--19
+[][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (8.53578pt too wide) in paragraph at lines 35--99
+ []$ 
+ []
+
+
+LaTeX Warning: Float too large for page by 45.59973pt on input line 102.
+
+) [183]
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 30.
+ [184] (main.bbl
+LaTeX Font Info:    Font shape `OT1/pcr/m/it' in size <8> not available
+(Font)              Font shape `OT1/pcr/m/sl' tried instead on input line 41.
+ [185
+
+
+
+] [186]
+Underfull \hbox (badness 3049) in paragraph at lines 239--243
+\OT1/ptm/m/it/8 ter Poly-tech-nic In-sti-tute, []$\OT1/pcr/m/sl/8 http : / / www . wpi . edu / Pubs / ETD / Available / 
+etd-[]0429103-[]152947/$[]\OT1/ptm/m/n/8 ,
+ []
+
+[187]
+Underfull \hbox (badness 2961) in paragraph at lines 349--352
+[]\OT1/ptm/m/n/8 Delivering Hot Con-tent with Con-fir-ma-tion - Nokia Tech-nol-ogy Pa-per.  []$\OT1/pcr/m/sl/8 http : / 
+/ www . nokia . com /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 393--397
+[]\OT1/ptm/m/n/8 ECMA-262 EC-MAScript Lan-guage Spec-i-fi-ca-tion.  []$\OT1/pcr/m/sl/8 http : / / www . ecma-[]internati
+onal . org /
+ []
+
+[188] [189]
+Underfull \hbox (badness 2913) in paragraph at lines 652--655
+[]\OT1/ptm/m/n/8 J2ME De-vices Cur-rently in the Mar-ket. Sun Tech-nol-ogy Page.  []$\OT1/pcr/m/sl/8 http : / / develope
+rs . sun . com /
+ []
+
+
+Underfull \hbox (badness 2065) in paragraph at lines 683--687
+[]\OT1/ptm/m/n/8 N. Ja-yaratcha-gan.  Declar-a-tive Pro-gram-ming in Java.  []$\OT1/pcr/m/sl/8 http : / / www . OnJava .
+ com . /2004 / 04 / 21 /
+ []
+
+[190]
+Underfull \hbox (badness 1675) in paragraph at lines 713--718
+[]\OT1/ptm/m/n/8 R. John-son.  In-tro-duc-ing the Sprint Frame-work.  []$\OT1/pcr/m/sl/8 http : / / www . theserverside 
+. com / articles /
+ []
+
+[191] [192]
+Underfull \hbox (badness 10000) in paragraph at lines 973--977
+[]\OT1/ptm/m/n/8 MobCon Home-page.  []$\OT1/pcr/m/sl/8 http : / / www . st . informatik . tu-[]darmstadt . de / static /
+ pages /
+ []
+
+[193]
+Missing character: There is no é in font ptmr7t!
+ [194] [195] [196]) [197] (main.aux (head/title.aux) (preface/preface.aux) (ch01/ch01.aux) (ch02/ch02.aux)
+(ch03/ch03.aux) (ch04/ch04.aux) (ch05/ch05.aux) (ch06/ch06.aux) (ch05/code.aux))
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 11197 strings out of 95519
+ 143807 string characters out of 1189651
+ 251089 words of memory out of 1222609
+ 11833 multiletter control sequences out of 35000
+ 51041 words of font info for 99 fonts, out of 500000 for 1000
+ 31 hyphenation exceptions out of 607
+ 47i,17n,63p,1667b,1507s stack positions out of 1500i,500n,5000p,200000b,32768s
+ 4528 PDF objects out of 300000
+ 1461 named destinations out of 300000
+ 1107 words of extra memory for PDF output out of 65536
+{r.enc}<C:\texmf\fonts\type1\bluesky\cm\cmmi6.pfb><C:\texmf\fonts\type1\bluesky\cm\cmmi9.pfb><C:\texmf\fonts\type1\blu
+esky\cm\cmr10.pfb><C:\texmf\fonts\type1\bluesky\cm\cmsy5.pfb><C:\texmf\fonts\type1\bluesky\cm\cmmi10.pfb><C:\texmf\fonts
+\type1\bluesky\cm\cmsy9.pfb><C:\texmf\fonts\type1\bluesky\cm\cmr6.pfb><C:\texmf\fonts\type1\bluesky\cm\cmmi8.pfb><C:\tex
+mf\fonts\type1\bluesky\cm\cmsy8.pfb><C:\texmf\fonts\type1\bluesky\cm\cmsy6.pfb><C:\texmf\fonts\type1\public\xypic\xydash
+10.pfb><C:\texmf\fonts\type1\public\xypic\xybtip10.pfb><C:\texmf\fonts\type1\public\xypic\xyatip10.pfb><C:\texmf\fonts\t
+ype1\bluesky\cm\cmr8.pfb><C:\texmf\fonts\type1\bluesky\cm\cmss12.pfb><C:\texmf\fonts\type1\bluesky\cm\cmsy10.pfb><C:\tex
+mf\fonts\type1\bluesky\cm\cmss17.pfb> <C:\localtexmf\fonts\pk\ljfour\jknappen\ec\dpi600\ecss2074.pk>
+Output written on main.pdf (211 pages, 2637988 bytes).
